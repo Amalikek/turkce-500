@@ -15,16 +15,16 @@ let turkishVoice = null;
 const STORAGE = 'turkce_progress';
 
 const UNITS = {
-  'Selamlaşma': { icon: '👋', key: 'Приветствия' },
-  'Yemek': { icon: '🍽️', key: 'Еда' },
-  'Aile': { icon: '👨‍👩‍👧', key: 'Семья' },
-  'Şehir': { icon: '🏙️', key: 'Город' },
-  'Ulaşım': { icon: '🚌', key: 'Транспорт' },
-  'Seyahat': { icon: '✈️', key: 'Путешествия' },
-  'Doğa': { icon: '🌳', key: 'Природа' },
-  'Fiiller': { icon: '🏃', key: 'Глаголы' },
-  'Duygular': { icon: '😊', key: 'Эмоции' },
-  'Ev': { icon: '🏠', key: 'Дом' },
+  'Приветствия': { icon: '👋', key: 'Приветствия' },
+  'Еда': { icon: '🍽️', key: 'Еда' },
+  'Семья': { icon: '👨‍👩‍👧', key: 'Семья' },
+  'Город': { icon: '🏙️', key: 'Город' },
+  'Транспорт': { icon: '🚌', key: 'Транспорт' },
+  'Путешествия': { icon: '✈️', key: 'Путешествия' },
+  'Природа': { icon: '🌳', key: 'Природа' },
+  'Глаголы': { icon: '🏃', key: 'Глаголы' },
+  'Эмоции': { icon: '😊', key: 'Эмоции' },
+  'Дом': { icon: '🏠', key: 'Дом' },
 };
 
 // ── Speech ──────────────────────────────────────────
@@ -85,7 +85,7 @@ function buildUnits() {
     const count = allWords.filter(w => w.category === key).length;
     const btn = document.createElement('button');
     btn.className = 'unit-chip';
-    btn.innerHTML = `<span class="unit-chip-icon">${icon}</span><span class="unit-chip-info">${name}<small>${count} kelime</small></span>`;
+    btn.innerHTML = `<span class="unit-chip-icon">${icon}</span><span class="unit-chip-info">${name}<small>${count} слов</small></span>`;
     btn.addEventListener('click', () => startLesson(key));
     grid.appendChild(btn);
   });
@@ -169,12 +169,12 @@ function showExercise() {
   body.innerHTML = '';
 
   if (currentExercise === 'image-word') {
-    body.innerHTML = `<p class="exercise-label">Bu nedir?</p>
+    body.innerHTML = `<p class="exercise-label">Как это по-турецки?</p>
       <img class="exercise-img" src="${imgSrc(word)}" alt="">
       <p class="exercise-hint-ru">${word.russian}</p>`;
     body.appendChild(buildWordOptions(word));
   } else {
-    body.innerHTML = `<p class="exercise-label">Dinle ve resmi seç</p>
+    body.innerHTML = `<p class="exercise-label">Послушай и выбери картинку</p>
       <p class="exercise-hint-ru">${word.russian}</p>
       <div class="listen-zone" id="listen-btn">🔊</div>`;
     body.appendChild(buildImageOptions(word));
@@ -240,7 +240,7 @@ function checkAnswer() {
 
   if (correct) {
     banner.classList.add('ok');
-    banner.innerHTML = `✓ Doğru!<br><strong>${word.turkish}</strong> — ${word.russian}`;
+    banner.innerHTML = `✓ Верно!<br><strong>${word.turkish}</strong> — ${word.russian}`;
     lessonScore++;
     p.streak++;
     if (p.streak > p.bestStreak) p.bestStreak = p.streak;
@@ -248,7 +248,7 @@ function checkAnswer() {
     speak(word.turkish);
   } else {
     banner.classList.add('bad');
-    banner.innerHTML = `✗ Doğrusu:<br><strong>${word.turkish}</strong> — ${word.russian}`;
+    banner.innerHTML = `✗ Правильно:<br><strong>${word.turkish}</strong> — ${word.russian}`;
     hearts--;
     p.streak = 0;
     document.getElementById('hearts').textContent = hearts;
@@ -271,7 +271,7 @@ function nextExercise() {
 
 function finishLesson() {
   document.getElementById('complete-xp').textContent = lessonScore * 10;
-  document.getElementById('complete-score').textContent = `${lessonScore} / ${lessonWords.length} doğru`;
+  document.getElementById('complete-score').textContent = `${lessonScore} / ${lessonWords.length} верно`;
   showScreen('screen-complete');
   updateHomeStats();
 }
@@ -289,6 +289,7 @@ function renderCard() {
   const w = cardDeck[cardIndex];
   document.getElementById('cards-counter').textContent = `${cardIndex + 1} / ${cardDeck.length}`;
   document.getElementById('card-img').innerHTML = `<img src="${imgSrc(w)}" alt="">`;
+  document.getElementById('card-ru-front').textContent = w.russian;
   document.getElementById('card-word').textContent = w.turkish;
   document.getElementById('card-ru').textContent = w.russian;
   document.getElementById('duo-card').classList.remove('flipped');

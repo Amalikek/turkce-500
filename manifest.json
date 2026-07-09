@@ -1,7 +1,7 @@
 {
-  "name": "Türkçe Öğren",
+  "name": "Учим турецкий",
   "short_name": "Türkçe",
-  "description": "500 Turkish words — visual & audio learning",
+  "description": "500 турецких слов с картинками и озвучкой",
   "id": "/",
   "start_url": "./index.html",
   "scope": "./",
@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#58CC02",
-  "lang": "tr",
+  "lang": "ru",
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }

@@ -354,6 +354,14 @@ body {
 
 .card-word { font-size: 2rem; font-weight: 900; color: var(--green-dark); margin-bottom: 8px; }
 
+.card-ru-front {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: var(--text);
+  margin-top: 12px;
+  text-align: center;
+}
+
 .card-ru {
   font-size: 1.15rem;
   font-weight: 700;

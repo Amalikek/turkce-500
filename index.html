@@ -1,22 +1,21 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
   <meta name="theme-color" content="#58CC02">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Türkçe">
-  <title>Türkçe Öğren</title>
+  <title>Учим турецкий</title>
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="icon" href="icons/icon-192.png">
-  <link rel="stylesheet" href="style.css?v=3">
+  <link rel="stylesheet" href="style.css?v=4">
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="app">
 
-    <!-- Ana ekran -->
     <section id="screen-home" class="screen active">
       <header class="top-bar">
         <div class="stat-pill streak">🔥 <span id="stat-streak">0</span></div>
@@ -25,28 +24,27 @@
 
       <div class="mascot-area">
         <div class="mascot">🇹🇷</div>
-        <h1>Türkçe Öğren</h1>
-        <p class="tagline">500 kelime · görsel · sesli</p>
+        <h1>Учим турецкий</h1>
+        <p class="tagline">500 слов · картинки · озвучка</p>
       </div>
 
       <div class="xp-bar-wrap">
         <div class="xp-bar"><div id="xp-fill"></div></div>
-        <span id="stat-learned">0</span> / 500 kelime
+        <span id="stat-learned">0</span> / 500 слов
       </div>
 
       <button class="btn-main" id="btn-start-lesson">
-        <span class="btn-main-label">Dersi Başlat</span>
-        <span class="btn-main-sub">Resim + dinleme · 10 kelime</span>
+        <span class="btn-main-label">Начать урок</span>
+        <span class="btn-main-sub">Картинки + аудио · 10 слов</span>
       </button>
 
       <button class="btn-secondary-full" id="btn-start-cards">
-        🃏 Kartlar — dinle ve öğren
+        🃏 Карточки — слушай и учи
       </button>
 
       <div class="unit-grid" id="unit-grid"></div>
     </section>
 
-    <!-- Ders -->
     <section id="screen-lesson" class="screen">
       <header class="lesson-header">
         <button class="btn-close" id="btn-close-lesson">✕</button>
@@ -58,12 +56,11 @@
 
       <footer class="lesson-footer hidden" id="lesson-footer">
         <div class="feedback-banner" id="feedback-banner"></div>
-        <button class="btn-check" id="btn-check" disabled>Kontrol Et</button>
-        <button class="btn-check btn-continue hidden" id="btn-continue">Devam</button>
+        <button class="btn-check" id="btn-check" disabled>Проверить</button>
+        <button class="btn-check btn-continue hidden" id="btn-continue">Далее</button>
       </footer>
     </section>
 
-    <!-- Kartlar -->
     <section id="screen-cards" class="screen">
       <header class="lesson-header">
         <button class="btn-close" id="btn-close-cards">✕</button>
@@ -74,6 +71,7 @@
         <div class="duo-card" id="duo-card">
           <div class="duo-card-front">
             <div class="card-img" id="card-img"></div>
+            <div class="card-ru-front" id="card-ru-front">привет</div>
           </div>
           <div class="duo-card-back">
             <div class="card-word" id="card-word">merhaba</div>
@@ -81,27 +79,26 @@
             <button class="btn-sound" id="card-sound">🔊</button>
           </div>
         </div>
-        <p class="card-hint">Kartı çevirmek için dokun</p>
+        <p class="card-hint">Нажми, чтобы перевернуть</p>
       </div>
 
       <div class="card-actions">
-        <button class="btn-card btn-again" id="btn-again">Tekrar</button>
-        <button class="btn-card btn-know" id="btn-know">Biliyorum ✓</button>
+        <button class="btn-card btn-again" id="btn-again">🔊 Ещё раз</button>
+        <button class="btn-card btn-know" id="btn-know">Знаю ✓</button>
       </div>
     </section>
 
-    <!-- Ders bitti -->
     <section id="screen-complete" class="screen">
       <div class="complete-box">
         <div class="complete-icon">🎉</div>
-        <h2>Harika!</h2>
+        <h2>Отлично!</h2>
         <p class="complete-xp">+<span id="complete-xp">10</span> XP</p>
         <p class="complete-score" id="complete-score">8 / 10</p>
-        <button class="btn-main" id="btn-home">Devam Et</button>
+        <button class="btn-main" id="btn-home">Продолжить</button>
       </div>
     </section>
 
   </div>
-  <script src="app.js?v=3"></script>
+  <script src="app.js?v=4"></script>
 </body>
 </html>

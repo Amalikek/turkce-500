@@ -1,4 +1,4 @@
-const CACHE_NAME = 'turkish-vocab-v7';
+const CACHE_NAME = 'turkish-vocab-v8';
 const APP_SHELL = [
   './',
   './index.html',
@@ -43,19 +43,18 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(request.url);
 
-  // Same origin: cache-first (работает офлайн)
+  // Same origin: network-first so updates appear quickly
   if (url.origin === self.location.origin) {
     event.respondWith(
-      caches.match(request).then((cached) => {
-        if (cached) return cached;
-        return fetch(request).then((response) => {
+      fetch(request)
+        .then((response) => {
           if (response.ok) {
             const clone = response.clone();
             caches.open(CACHE_NAME).then((c) => c.put(request, clone));
           }
           return response;
-        });
-      }).catch(() => caches.match('./index.html'))
+        })
+        .catch(() => caches.match(request).then((r) => r || caches.match('./index.html')))
     );
     return;
   }
