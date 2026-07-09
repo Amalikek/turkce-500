@@ -1,4 +1,4 @@
-const CACHE_NAME = 'turkish-vocab-v6';
+const CACHE_NAME = 'turkish-vocab-v7';
 const APP_SHELL = [
   './',
   './index.html',

@@ -170,10 +170,12 @@ function showExercise() {
 
   if (currentExercise === 'image-word') {
     body.innerHTML = `<p class="exercise-label">Bu nedir?</p>
-      <img class="exercise-img" src="${imgSrc(word)}" alt="">`;
+      <img class="exercise-img" src="${imgSrc(word)}" alt="">
+      <p class="exercise-hint-ru">${word.russian}</p>`;
     body.appendChild(buildWordOptions(word));
   } else {
     body.innerHTML = `<p class="exercise-label">Dinle ve resmi seç</p>
+      <p class="exercise-hint-ru">${word.russian}</p>
       <div class="listen-zone" id="listen-btn">🔊</div>`;
     body.appendChild(buildImageOptions(word));
     document.getElementById('listen-btn').addEventListener('click', () => speak(word.turkish));
@@ -238,7 +240,7 @@ function checkAnswer() {
 
   if (correct) {
     banner.classList.add('ok');
-    banner.textContent = `✓ Doğru! ${word.turkish}`;
+    banner.innerHTML = `✓ Doğru!<br><strong>${word.turkish}</strong> — ${word.russian}`;
     lessonScore++;
     p.streak++;
     if (p.streak > p.bestStreak) p.bestStreak = p.streak;
@@ -246,7 +248,7 @@ function checkAnswer() {
     speak(word.turkish);
   } else {
     banner.classList.add('bad');
-    banner.textContent = `✗ Doğrusu: ${word.turkish}`;
+    banner.innerHTML = `✗ Doğrusu:<br><strong>${word.turkish}</strong> — ${word.russian}`;
     hearts--;
     p.streak = 0;
     document.getElementById('hearts').textContent = hearts;
@@ -288,6 +290,7 @@ function renderCard() {
   document.getElementById('cards-counter').textContent = `${cardIndex + 1} / ${cardDeck.length}`;
   document.getElementById('card-img').innerHTML = `<img src="${imgSrc(w)}" alt="">`;
   document.getElementById('card-word').textContent = w.turkish;
+  document.getElementById('card-ru').textContent = w.russian;
   document.getElementById('duo-card').classList.remove('flipped');
 }
 

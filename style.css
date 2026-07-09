@@ -352,7 +352,22 @@ body {
   border-radius: 16px;
 }
 
-.card-word { font-size: 2rem; font-weight: 900; color: var(--green-dark); margin-bottom: 16px; }
+.card-word { font-size: 2rem; font-weight: 900; color: var(--green-dark); margin-bottom: 8px; }
+
+.card-ru {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-light);
+  margin-bottom: 16px;
+}
+
+.exercise-hint-ru {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-light);
+  margin: -12px 0 20px;
+  text-align: center;
+}
 
 .btn-sound {
   width: 56px; height: 56px;
