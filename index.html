@@ -6,11 +6,11 @@
   <meta name="theme-color" content="#58CC02">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Türkçe">
-  <title>Учим турецкий</title>
+  <title>Разговорный турецкий</title>
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="icon" href="icons/icon-192.png">
-  <link rel="stylesheet" href="style.css?v=5">
+  <link rel="stylesheet" href="style.css?v=6">
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -23,31 +23,38 @@
       </header>
 
       <div class="mascot-area">
-        <h1>Учим турецкий</h1>
-        <p class="tagline">500 слов · перевод · озвучка</p>
+        <h1>Разговорный турецкий</h1>
+        <p class="tagline">Улица · магазин · транспорт · кафе</p>
       </div>
 
       <div class="xp-bar-wrap">
         <div class="xp-bar"><div id="xp-fill"></div></div>
-        <span id="stat-learned">0</span> / 500 слов
+        <span id="stat-learned">0</span> / <span id="stat-total">310</span> фраз
       </div>
 
       <button class="btn-main" id="btn-start-lesson">
-        <span class="btn-main-label">Начать урок</span>
-        <span class="btn-main-sub">10 слов · перевод и аудио</span>
+        <span class="btn-main-label">Практика на улице</span>
+        <span class="btn-main-sub" id="btn-start-lesson-sub">10 фраз · перевод и аудио</span>
       </button>
 
       <button class="btn-secondary-full" id="btn-start-cards">
-        Карточки — учи слова
+        Карточки — слушай и повторяй
       </button>
 
+      <h2 class="section-title">Ситуации</h2>
       <div class="unit-grid" id="unit-grid"></div>
     </section>
 
     <section id="screen-lesson" class="screen">
-      <header class="lesson-header">
+      <header class="lesson-header lesson-header-tall">
         <button class="btn-close" id="btn-close-lesson">✕</button>
-        <div class="lesson-progress-bar"><div id="lesson-fill"></div></div>
+        <div class="lesson-header-main">
+          <div class="lesson-scenario">
+            <span id="lesson-scenario-title">На улице</span>
+            <small id="lesson-scenario-sub">Практика</small>
+          </div>
+          <div class="lesson-progress-bar"><div id="lesson-fill"></div></div>
+        </div>
         <div class="lesson-hearts">Жизни: <span id="hearts">3</span></div>
       </header>
 
@@ -71,6 +78,7 @@
           <div class="duo-card-front">
             <p class="card-side-label">По-русски</p>
             <div class="card-ru-front" id="card-ru-front">привет</div>
+            <p class="card-context" id="card-context"></p>
           </div>
           <div class="duo-card-back">
             <p class="card-side-label">По-турецки</p>
@@ -91,6 +99,7 @@
     <section id="screen-complete" class="screen">
       <div class="complete-box">
         <h2>Отлично!</h2>
+        <p class="complete-scenario" id="complete-scenario"></p>
         <p class="complete-xp">+<span id="complete-xp">10</span> XP</p>
         <p class="complete-score" id="complete-score">8 / 10</p>
         <button class="btn-main" id="btn-home">Продолжить</button>
@@ -98,6 +107,6 @@
     </section>
 
   </div>
-  <script src="app.js?v=5"></script>
+  <script src="app.js?v=6"></script>
 </body>
 </html>

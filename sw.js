@@ -1,10 +1,11 @@
-const CACHE_NAME = 'turkish-vocab-v9';
+const CACHE_NAME = 'turkish-vocab-v10';
 const APP_SHELL = [
   './',
   './index.html',
   './style.css',
   './app.js',
   './words.json',
+  './scenarios.json',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png',
