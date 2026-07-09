@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "turkish": "merhaba",
+    "russian": "привет",
+    "emoji": "👋",
+    "category": "Приветствия",
+    "image": "./images/001.jpg"
+  },
+  {
+    "id": 2,
+    "turkish": "günaydın",
+    "russian": "доброе утро",
+    "emoji": "🌅",
+    "category": "Приветствия",
+    "image": "./images/002.jpg"
+  },
+  {
+    "id": 3,
+    "turkish": "iyi akşamlar",
+    "russian": "добрый вечер",
+    "emoji": "🌆",
+    "category": "Приветствия",
+    "image": "./images/003.jpg"
+  },
+  {
+    "id": 4,
+    "turkish": "iyi geceler",
+    "russian": "спокойной ночи",
+    "emoji": "🌙",
+    "category": "Приветствия",
+    "image": "./images/004.jpg"
+  },
+  {
+    "id": 5,
+    "turkish": "hoşça kal",
+    "russian": "до свидания",
+    "emoji": "👋",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 6,
+    "turkish": "görüşürüz",
+    "russian": "увидимся",
+    "emoji": "🤝",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 7,
+    "turkish": "teşekkür ederim",
+    "russian": "спасибо",
+    "emoji": "🙏",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 8,
+    "turkish": "teşekkürler",
+    "russian": "спасибо",
+    "emoji": "🙏",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 9,
+    "turkish": "lütfen",
+    "russian": "пожалуйста",
+    "emoji": "🙏",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 10,
+    "turkish": "özür dilerim",
+    "russian": "извините",
+    "emoji": "😔",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 11,
+    "turkish": "pardon",
+    "russian": "простите",
+    "emoji": "🙇",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 12,
+    "turkish": "evet",
+    "russian": "да",
+    "emoji": "✅",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 13,
+    "turkish": "hayır",
+    "russian": "нет",
+    "emoji": "❌",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 14,
+    "turkish": "tamam",
+    "russian": "хорошо / ок",
+    "emoji": "👌",
+    "category": "Приветствия",
+    "image": "./images/014.jpg"
+  },
+  {
+    "id": 15,
+    "turkish": "peki",
+    "russian": "ладно",
+    "emoji": "👍",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 16,
+    "turkish": "tabii",
+    "russian": "конечно",
+    "emoji": "💯",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 17,
+    "turkish": "belki",
+    "russian": "может быть",
+    "emoji": "🤔",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 18,
+    "turkish": "nasılsın",
+    "russian": "как дела?",
+    "emoji": "😊",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 19,
+    "turkish": "iyiyim",
+    "russian": "хорошо (я)",
+    "emoji": "😊",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 20,
+    "turkish": "adın ne",
+    "russian": "как тебя зовут?",
+    "emoji": "❓",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 21,
+    "turkish": "benim adım",
+    "russian": "меня зовут",
+    "emoji": "🪪",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 22,
+    "turkish": "memnun oldum",
+    "russian": "приятно познакомиться",
+    "emoji": "🤝",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 23,
+    "turkish": "hoş geldiniz",
+    "russian": "добро пожаловать",
+    "emoji": "🎉",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 24,
+    "turkish": "afiyet olsun",
+    "russian": "приятного аппетита",
+    "emoji": "🍽️",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 25,
+    "turkish": "geçmiş olsun",
+    "russian": "выздоравливай",
+    "emoji": "💐",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 26,
+    "turkish": "kolay gelsin",
+    "russian": "лёгкой работы",
+    "emoji": "💪",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 27,
+    "turkish": "başarılar",
+    "russian": "удачи",
+    "emoji": "🍀",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 28,
+    "turkish": "iyi yolculuklar",
+    "russian": "счастливого пути",
+    "emoji": "✈️",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 29,
+    "turkish": "güle güle",
+    "russian": "пока (остающемуся)",
+    "emoji": "👋",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 30,
+    "turkish": "selam",
+    "russian": "привет (неформ.)",
+    "emoji": "✌️",
+    "category": "Приветствия",
+    "image": "./images/030.jpg"
+  },
+  {
+    "id": 31,
+    "turkish": "naber",
+    "russian": "что нового?",
+    "emoji": "🗣️",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 32,
+    "turkish": "iyi günler",
+    "russian": "добрый день",
+    "emoji": "☀️",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 33,
+    "turkish": "rica ederim",
+    "russian": "пожалуйста (ответ)",
+    "emoji": "😊",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 34,
+    "turkish": "bir şey değil",
+    "russian": "ничего страшного",
+    "emoji": "🤷",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 35,
+    "turkish": "anladım",
+    "russian": "понял",
+    "emoji": "💡",
+    "category": "Приветствия",
+    "image": "./images/cat-privet.svg"
+  },
+  {
+    "id": 36,
+    "turkish": "ben",
+    "russian": "я",
+    "emoji": "🙋",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 37,
+    "turkish": "sen",
+    "russian": "ты",
+    "emoji": "👉",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 38,
+    "turkish": "o",
+    "russian": "он / она",
+    "emoji": "👤",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 39,
+    "turkish": "biz",
+    "russian": "мы",
+    "emoji": "👥",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 40,
+    "turkish": "siz",
+    "russian": "вы",
+    "emoji": "👥",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 41,
+    "turkish": "onlar",
+    "russian": "они",
+    "emoji": "👥",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 42,
+    "turkish": "bu",
+    "russian": "это",
+    "emoji": "👆",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 43,
+    "turkish": "şu",
+    "russian": "то",
+    "emoji": "👉",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 44,
+    "turkish": "o (uzak)",
+    "russian": "то (далёкое)",
+    "emoji": "👈",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 45,
+    "turkish": "ne",
+    "russian": "что",
+    "emoji": "❓",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 46,
+    "turkish": "kim",
+    "russian": "кто",
+    "emoji": "🧑",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 47,
+    "turkish": "nerede",
+    "russian": "где",
+    "emoji": "📍",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 48,
+    "turkish": "nereye",
+    "russian": "куда",
+    "emoji": "🧭",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 49,
+    "turkish": "nereden",
+    "russian": "откуда",
+    "emoji": "🗺️",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 50,
+    "turkish": "ne zaman",
+    "russian": "когда",
+    "emoji": "🕐",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 51,
+    "turkish": "nasıl",
+    "russian": "как",
+    "emoji": "🔧",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 52,
+    "turkish": "neden",
+    "russian": "почему",
+    "emoji": "🤷",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 53,
+    "turkish": "niçin",
+    "russian": "зачем",
+    "emoji": "💭",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 54,
+    "turkish": "kaç",
+    "russian": "сколько",
+    "emoji": "🔢",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 55,
+    "turkish": "hangi",
+    "russian": "какой",
+    "emoji": "❓",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 56,
+    "turkish": "kime",
+    "russian": "кому",
+    "emoji": "👤",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 57,
+    "turkish": "kimin",
+    "russian": "чей",
+    "emoji": "🏷️",
+    "category": "Вопросы",
+    "image": "./images/cat-vopros.svg"
+  },
+  {
+    "id": 58,
+    "turkish": "her",
+    "russian": "каждый",
+    "emoji": "🔄",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 59,
+    "turkish": "hiç",
+    "russian": "никогда / ничего",
+    "emoji": "🚫",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 60,
+    "turkish": "hepsi",
+    "russian": "всё",
+    "emoji": "📦",
+    "category": "Местоимения",
+    "image": "./images/cat-mesto.svg"
+  },
+  {
+    "id": 61,
+    "turkish": "sıfır",
+    "russian": "ноль",
+    "emoji": "0️⃣",
+    "category": "Числа",
+    "image": "./images/061.jpg"
+  },
+  {
+    "id": 62,
+    "turkish": "bir",
+    "russian": "один",
+    "emoji": "1️⃣",
+    "category": "Числа",
+    "image": "./images/062.jpg"
+  },
+  {
+    "id": 63,
+    "turkish": "iki",
+    "russian": "два",
+    "emoji": "2️⃣",
+    "category": "Числа",
+    "image": "./images/063.jpg"
+  },
+  {
+    "id": 64,
+    "turkish": "üç",
+    "russian": "три",
+    "emoji": "3️⃣",
+    "category": "Числа",
+    "image": "./images/064.jpg"
+  },
+  {
+    "id": 65,
+    "turkish": "dört",
+    "russian": "четыре",
+    "emoji": "4️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 66,
+    "turkish": "beş",
+    "russian": "пять",
+    "emoji": "5️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 67,
+    "turkish": "altı",
+    "russian": "шесть",
+    "emoji": "6️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 68,
+    "turkish": "yedi",
+    "russian": "семь",
+    "emoji": "7️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 69,
+    "turkish": "sekiz",
+    "russian": "восемь",
+    "emoji": "8️⃣",
+    "category": "Числа",
+    "image": "./images/069.jpg"
+  },
+  {
+    "id": 70,
+    "turkish": "dokuz",
+    "russian": "девять",
+    "emoji": "9️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 71,
+    "turkish": "on",
+    "russian": "десять",
+    "emoji": "🔟",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 72,
+    "turkish": "yirmi",
+    "russian": "двадцать",
+    "emoji": "2️⃣0️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 73,
+    "turkish": "otuz",
+    "russian": "тридцать",
+    "emoji": "3️⃣0️⃣",
+    "category": "Числа",
+    "image": "./images/073.jpg"
+  },
+  {
+    "id": 74,
+    "turkish": "kırk",
+    "russian": "сорок",
+    "emoji": "4️⃣0️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 75,
+    "turkish": "elli",
+    "russian": "пятьдесят",
+    "emoji": "5️⃣0️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 76,
+    "turkish": "yüz",
+    "russian": "сто",
+    "emoji": "💯",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 77,
+    "turkish": "bin",
+    "russian": "тысяча",
+    "emoji": "💰",
+    "category": "Числа",
+    "image": "./images/077.jpg"
+  },
+  {
+    "id": 78,
+    "turkish": "milyon",
+    "russian": "миллион",
+    "emoji": "💎",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 79,
+    "turkish": "ilk",
+    "russian": "первый",
+    "emoji": "🥇",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 80,
+    "turkish": "son",
+    "russian": "последний",
+    "emoji": "🏁",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 81,
+    "turkish": "yarım",
+    "russian": "половина",
+    "emoji": "➗",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 82,
+    "turkish": "çift",
+    "russian": "пара / чётный",
+    "emoji": "👫",
+    "category": "Числа",
+    "image": "./images/082.jpg"
+  },
+  {
+    "id": 83,
+    "turkish": "tek",
+    "russian": "один / нечётный",
+    "emoji": "1️⃣",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 84,
+    "turkish": "daha",
+    "russian": "ещё / больше",
+    "emoji": "➕",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 85,
+    "turkish": "az",
+    "russian": "мало",
+    "emoji": "📉",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 86,
+    "turkish": "çok",
+    "russian": "много",
+    "emoji": "📈",
+    "category": "Числа",
+    "image": "./images/086.jpg"
+  },
+  {
+    "id": 87,
+    "turkish": "biraz",
+    "russian": "немного",
+    "emoji": "🤏",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 88,
+    "turkish": "hep",
+    "russian": "всегда",
+    "emoji": "♾️",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 89,
+    "turkish": "hiçbir",
+    "russian": "ни один",
+    "emoji": "🚫",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 90,
+    "turkish": "tüm",
+    "russian": "весь",
+    "emoji": "🌐",
+    "category": "Числа",
+    "image": "./images/cat-chisla.svg"
+  },
+  {
+    "id": 91,
+    "turkish": "bugün",
+    "russian": "сегодня",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 92,
+    "turkish": "dün",
+    "russian": "вчера",
+    "emoji": "⏪",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 93,
+    "turkish": "yarın",
+    "russian": "завтра",
+    "emoji": "⏩",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 94,
+    "turkish": "şimdi",
+    "russian": "сейчас",
+    "emoji": "⏰",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 95,
+    "turkish": "sonra",
+    "russian": "потом",
+    "emoji": "⏭️",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 96,
+    "turkish": "önce",
+    "russian": "раньше / до",
+    "emoji": "⏮️",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 97,
+    "turkish": "erken",
+    "russian": "рано",
+    "emoji": "🌄",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 98,
+    "turkish": "geç",
+    "russian": "поздно",
+    "emoji": "🌃",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 99,
+    "turkish": "sabah",
+    "russian": "утро",
+    "emoji": "🌅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 100,
+    "turkish": "öğle",
+    "russian": "полдень",
+    "emoji": "☀️",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 101,
+    "turkish": "akşam",
+    "russian": "вечер",
+    "emoji": "🌆",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 102,
+    "turkish": "gece",
+    "russian": "ночь",
+    "emoji": "🌙",
+    "category": "Время",
+    "image": "./images/102.jpg"
+  },
+  {
+    "id": 103,
+    "turkish": "hafta",
+    "russian": "неделя",
+    "emoji": "📆",
+    "category": "Время",
+    "image": "./images/103.png"
+  },
+  {
+    "id": 104,
+    "turkish": "ay",
+    "russian": "месяц / луна",
+    "emoji": "🌙",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 105,
+    "turkish": "yıl",
+    "russian": "год",
+    "emoji": "🗓️",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 106,
+    "turkish": "saat",
+    "russian": "час / часы",
+    "emoji": "🕐",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 107,
+    "turkish": "dakika",
+    "russian": "минута",
+    "emoji": "⏱️",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 108,
+    "turkish": "saniye",
+    "russian": "секунда",
+    "emoji": "⏱️",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 109,
+    "turkish": "pazartesi",
+    "russian": "понедельник",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/109.jpg"
+  },
+  {
+    "id": 110,
+    "turkish": "salı",
+    "russian": "вторник",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 111,
+    "turkish": "çarşamba",
+    "russian": "среда",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 112,
+    "turkish": "perşembe",
+    "russian": "четверг",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 113,
+    "turkish": "cuma",
+    "russian": "пятница",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 114,
+    "turkish": "cumartesi",
+    "russian": "суббота",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 115,
+    "turkish": "pazar",
+    "russian": "воскресенье",
+    "emoji": "📅",
+    "category": "Время",
+    "image": "./images/cat-vremya.svg"
+  },
+  {
+    "id": 116,
+    "turkish": "aile",
+    "russian": "семья",
+    "emoji": "👨‍👩‍👧‍👦",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 117,
+    "turkish": "anne",
+    "russian": "мама",
+    "emoji": "👩",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 118,
+    "turkish": "baba",
+    "russian": "папа",
+    "emoji": "👨",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 119,
+    "turkish": "kardeş",
+    "russian": "брат / сестра",
+    "emoji": "👫",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 120,
+    "turkish": "abla",
+    "russian": "старшая сестра",
+    "emoji": "👧",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 121,
+    "turkish": "abi",
+    "russian": "старший брат",
+    "emoji": "👦",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 122,
+    "turkish": "çocuk",
+    "russian": "ребёнок",
+    "emoji": "👶",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 123,
+    "turkish": "kız",
+    "russian": "девочка / дочь",
+    "emoji": "👧",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 124,
+    "turkish": "oğlan",
+    "russian": "мальчик / сын",
+    "emoji": "👦",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 125,
+    "turkish": "dede",
+    "russian": "дедушка",
+    "emoji": "👴",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 126,
+    "turkish": "nine",
+    "russian": "бабушка",
+    "emoji": "👵",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 127,
+    "turkish": "amca",
+    "russian": "дядя",
+    "emoji": "👨",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 128,
+    "turkish": "teyze",
+    "russian": "тётя",
+    "emoji": "👩",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 129,
+    "turkish": "kuzen",
+    "russian": "двоюродный брат/сестра",
+    "emoji": "🧑",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 130,
+    "turkish": "eş",
+    "russian": "супруг(а)",
+    "emoji": "💑",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 131,
+    "turkish": "koca",
+    "russian": "муж",
+    "emoji": "🤵",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 132,
+    "turkish": "karı",
+    "russian": "жена",
+    "emoji": "👰",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 133,
+    "turkish": "bebek",
+    "russian": "младенец",
+    "emoji": "👶",
+    "category": "Семья",
+    "image": "./images/cat-semya.svg"
+  },
+  {
+    "id": 134,
+    "turkish": "arkadaş",
+    "russian": "друг",
+    "emoji": "🤝",
+    "category": "Люди",
+    "image": "./images/134.jpg"
+  },
+  {
+    "id": 135,
+    "turkish": "dost",
+    "russian": "друг (близкий)",
+    "emoji": "❤️",
+    "category": "Люди",
+    "image": "./images/135.jpg"
+  },
+  {
+    "id": 136,
+    "turkish": "komşu",
+    "russian": "сосед",
+    "emoji": "🏘️",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 137,
+    "turkish": "misafir",
+    "russian": "гость",
+    "emoji": "🚪",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 138,
+    "turkish": "insan",
+    "russian": "человек",
+    "emoji": "🧑",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 139,
+    "turkish": "adam",
+    "russian": "мужчина",
+    "emoji": "👨",
+    "category": "Люди",
+    "image": "./images/139.jpg"
+  },
+  {
+    "id": 140,
+    "turkish": "kadın",
+    "russian": "женщина",
+    "emoji": "👩",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 141,
+    "turkish": "genç",
+    "russian": "молодой",
+    "emoji": "🧑",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 142,
+    "turkish": "yaşlı",
+    "russian": "пожилой",
+    "emoji": "👴",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 143,
+    "turkish": "kalabalık",
+    "russian": "толпа",
+    "emoji": "👥",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 144,
+    "turkish": "yabancı",
+    "russian": "иностранец",
+    "emoji": "🌍",
+    "category": "Люди",
+    "image": "./images/144.jpg"
+  },
+  {
+    "id": 145,
+    "turkish": "Türk",
+    "russian": "турок",
+    "emoji": "🇹🇷",
+    "category": "Люди",
+    "image": "./images/cat-lyudi.svg"
+  },
+  {
+    "id": 146,
+    "turkish": "doktor",
+    "russian": "врач",
+    "emoji": "👨‍⚕️",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 147,
+    "turkish": "hemşire",
+    "russian": "медсестра",
+    "emoji": "👩‍⚕️",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 148,
+    "turkish": "öğretmen",
+    "russian": "учитель",
+    "emoji": "👨‍🏫",
+    "category": "Профессии",
+    "image": "./images/148.jpg"
+  },
+  {
+    "id": 149,
+    "turkish": "öğrenci",
+    "russian": "студент",
+    "emoji": "👨‍🎓",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 150,
+    "turkish": "polis",
+    "russian": "полицейский",
+    "emoji": "👮",
+    "category": "Профессии",
+    "image": "./images/150.jpg"
+  },
+  {
+    "id": 151,
+    "turkish": "itfaiyeci",
+    "russian": "пожарный",
+    "emoji": "🚒",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 152,
+    "turkish": "aşçı",
+    "russian": "повар",
+    "emoji": "👨‍🍳",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 153,
+    "turkish": "garson",
+    "russian": "официант",
+    "emoji": "🍽️",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 154,
+    "turkish": "mühendis",
+    "russian": "инженер",
+    "emoji": "👷",
+    "category": "Профессии",
+    "image": "./images/cat-prof.svg"
+  },
+  {
+    "id": 155,
+    "turkish": "yemek",
+    "russian": "еда / есть",
+    "emoji": "🍽️",
+    "category": "Еда",
+    "image": "./images/155.jpg"
+  },
+  {
+    "id": 156,
+    "turkish": "içmek",
+    "russian": "пить",
+    "emoji": "🥤",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 157,
+    "turkish": "su",
+    "russian": "вода",
+    "emoji": "💧",
+    "category": "Еда",
+    "image": "./images/157.png"
+  },
+  {
+    "id": 158,
+    "turkish": "çay",
+    "russian": "чай",
+    "emoji": "🍵",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 159,
+    "turkish": "kahve",
+    "russian": "кофе",
+    "emoji": "☕",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 160,
+    "turkish": "süt",
+    "russian": "молоко",
+    "emoji": "🥛",
+    "category": "Еда",
+    "image": "./images/160.jpg"
+  },
+  {
+    "id": 161,
+    "turkish": "ekmek",
+    "russian": "хлеб",
+    "emoji": "🍞",
+    "category": "Еда",
+    "image": "./images/161.jpg"
+  },
+  {
+    "id": 162,
+    "turkish": "peynir",
+    "russian": "сыр",
+    "emoji": "🧀",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 163,
+    "turkish": "yumurta",
+    "russian": "яйцо",
+    "emoji": "🥚",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 164,
+    "turkish": "et",
+    "russian": "мясо",
+    "emoji": "🥩",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 165,
+    "turkish": "tavuk",
+    "russian": "курица",
+    "emoji": "🍗",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 166,
+    "turkish": "balık",
+    "russian": "рыба",
+    "emoji": "🐟",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 167,
+    "turkish": "sebze",
+    "russian": "овощ",
+    "emoji": "🥬",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 168,
+    "turkish": "meyve",
+    "russian": "фрукт",
+    "emoji": "🍎",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 169,
+    "turkish": "elma",
+    "russian": "яблоко",
+    "emoji": "🍎",
+    "category": "Еда",
+    "image": "./images/169.jpg"
+  },
+  {
+    "id": 170,
+    "turkish": "portakal",
+    "russian": "апельсин",
+    "emoji": "🍊",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 171,
+    "turkish": "muz",
+    "russian": "банан",
+    "emoji": "🍌",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 172,
+    "turkish": "üzüm",
+    "russian": "виноград",
+    "emoji": "🍇",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 173,
+    "turkish": "çilek",
+    "russian": "клубника",
+    "emoji": "🍓",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 174,
+    "turkish": "karpuz",
+    "russian": "арбуз",
+    "emoji": "🍉",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 175,
+    "turkish": "domates",
+    "russian": "помидор",
+    "emoji": "🍅",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 176,
+    "turkish": "salatalık",
+    "russian": "огурец",
+    "emoji": "🥒",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 177,
+    "turkish": "soğan",
+    "russian": "лук",
+    "emoji": "🧅",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 178,
+    "turkish": "sarımsak",
+    "russian": "чеснок",
+    "emoji": "🧄",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 179,
+    "turkish": "patates",
+    "russian": "картофель",
+    "emoji": "🥔",
+    "category": "Еда",
+    "image": "./images/179.jpg"
+  },
+  {
+    "id": 180,
+    "turkish": "pirinç",
+    "russian": "рис",
+    "emoji": "🍚",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 181,
+    "turkish": "makarna",
+    "russian": "макароны",
+    "emoji": "🍝",
+    "category": "Еда",
+    "image": "./images/181.jpg"
+  },
+  {
+    "id": 182,
+    "turkish": "pizza",
+    "russian": "пицца",
+    "emoji": "🍕",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 183,
+    "turkish": "hamburger",
+    "russian": "гамбургер",
+    "emoji": "🍔",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 184,
+    "turkish": "döner",
+    "russian": "дёнер",
+    "emoji": "🥙",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 185,
+    "turkish": "kebap",
+    "russian": "кебаб",
+    "emoji": "🍢",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 186,
+    "turkish": "lahmacun",
+    "russian": "лахмаджун",
+    "emoji": "🫓",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 187,
+    "turkish": "börek",
+    "russian": "бёрек",
+    "emoji": "🥐",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 188,
+    "turkish": "baklava",
+    "russian": "баклава",
+    "emoji": "🍰",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 189,
+    "turkish": "çorba",
+    "russian": "суп",
+    "emoji": "🍲",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 190,
+    "turkish": "salata",
+    "russian": "салат",
+    "emoji": "🥗",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 191,
+    "turkish": "tatlı",
+    "russian": "сладкое / десерт",
+    "emoji": "🍰",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 192,
+    "turkish": "dondurma",
+    "russian": "мороженое",
+    "emoji": "🍦",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 193,
+    "turkish": "çikolata",
+    "russian": "шоколад",
+    "emoji": "🍫",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 194,
+    "turkish": "şeker",
+    "russian": "сахар / конфета",
+    "emoji": "🍬",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 195,
+    "turkish": "tuz",
+    "russian": "соль",
+    "emoji": "🧂",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 196,
+    "turkish": "biber",
+    "russian": "перец",
+    "emoji": "🌶️",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 197,
+    "turkish": "zeytinyağı",
+    "russian": "оливковое масло",
+    "emoji": "🫒",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 198,
+    "turkish": "limon",
+    "russian": "лимон",
+    "emoji": "🍋",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 199,
+    "turkish": "ayran",
+    "russian": "айран",
+    "emoji": "🥛",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 200,
+    "turkish": "meyve suyu",
+    "russian": "сок",
+    "emoji": "🧃",
+    "category": "Еда",
+    "image": "./images/200.jpg"
+  },
+  {
+    "id": 201,
+    "turkish": "bira",
+    "russian": "пиво",
+    "emoji": "🍺",
+    "category": "Еда",
+    "image": "./images/201.jpg"
+  },
+  {
+    "id": 202,
+    "turkish": "şarap",
+    "russian": "вино",
+    "emoji": "🍷",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 203,
+    "turkish": "rakı",
+    "russian": "раки",
+    "emoji": "🥃",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 204,
+    "turkish": "kahvaltı",
+    "russian": "завтрак",
+    "emoji": "🥐",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 205,
+    "turkish": "öğle yemeği",
+    "russian": "обед",
+    "emoji": "🍱",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 206,
+    "turkish": "akşam yemeği",
+    "russian": "ужин",
+    "emoji": "🍽️",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 207,
+    "turkish": "aç",
+    "russian": "голодный",
+    "emoji": "😋",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 208,
+    "turkish": "tok",
+    "russian": "сытый",
+    "emoji": "😌",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 209,
+    "turkish": "lezzetli",
+    "russian": "вкусный",
+    "emoji": "😋",
+    "category": "Еда",
+    "image": "./images/cat-eda.svg"
+  },
+  {
+    "id": 210,
+    "turkish": "ev",
+    "russian": "дом",
+    "emoji": "🏠",
+    "category": "Дом",
+    "image": "./images/210.jpg"
+  },
+  {
+    "id": 211,
+    "turkish": "oda",
+    "russian": "комната",
+    "emoji": "🚪",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 212,
+    "turkish": "mutfak",
+    "russian": "кухня",
+    "emoji": "🍳",
+    "category": "Дом",
+    "image": "./images/212.jpg"
+  },
+  {
+    "id": 213,
+    "turkish": "banyo",
+    "russian": "ванная",
+    "emoji": "🛁",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 214,
+    "turkish": "yatak odası",
+    "russian": "спальня",
+    "emoji": "🛏️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 215,
+    "turkish": "salon",
+    "russian": "гостиная",
+    "emoji": "🛋️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 216,
+    "turkish": "balkon",
+    "russian": "балкон",
+    "emoji": "🏡",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 217,
+    "turkish": "kapı",
+    "russian": "дверь",
+    "emoji": "🚪",
+    "category": "Дом",
+    "image": "./images/217.png"
+  },
+  {
+    "id": 218,
+    "turkish": "pencere",
+    "russian": "окно",
+    "emoji": "🪟",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 219,
+    "turkish": "duvar",
+    "russian": "стена",
+    "emoji": "🧱",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 220,
+    "turkish": "zemin",
+    "russian": "пол",
+    "emoji": "⬜",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 221,
+    "turkish": "tavan",
+    "russian": "потолок",
+    "emoji": "⬆️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 222,
+    "turkish": "merdiven",
+    "russian": "лестница",
+    "emoji": "🪜",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 223,
+    "turkish": "asansör",
+    "russian": "лифт",
+    "emoji": "🛗",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 224,
+    "turkish": "yatak",
+    "russian": "кровать",
+    "emoji": "🛏️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 225,
+    "turkish": "masa",
+    "russian": "стол",
+    "emoji": "🪑",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 226,
+    "turkish": "sandalye",
+    "russian": "стул",
+    "emoji": "🪑",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 227,
+    "turkish": "koltuk",
+    "russian": "кресло / диван",
+    "emoji": "🛋️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 228,
+    "turkish": "dolap",
+    "russian": "шкаф",
+    "emoji": "🗄️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 229,
+    "turkish": "ayna",
+    "russian": "зеркало",
+    "emoji": "🪞",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 230,
+    "turkish": "lamba",
+    "russian": "лампа",
+    "emoji": "💡",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 231,
+    "turkish": "televizyon",
+    "russian": "телевизор",
+    "emoji": "📺",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 232,
+    "turkish": "telefon",
+    "russian": "телефон",
+    "emoji": "📱",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 233,
+    "turkish": "bilgisayar",
+    "russian": "компьютер",
+    "emoji": "💻",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 234,
+    "turkish": "buzdolabı",
+    "russian": "холодильник",
+    "emoji": "🧊",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 235,
+    "turkish": "çamaşır makinesi",
+    "russian": "стиральная машина",
+    "emoji": "🧺",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 236,
+    "turkish": "fırın",
+    "russian": "духовка",
+    "emoji": "🔥",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 237,
+    "turkish": "tuvalet",
+    "russian": "туалет",
+    "emoji": "🚽",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 238,
+    "turkish": "duş",
+    "russian": "душ",
+    "emoji": "🚿",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 239,
+    "turkish": "havlu",
+    "russian": "полотенце",
+    "emoji": "🛁",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 240,
+    "turkish": "yastık",
+    "russian": "подушка",
+    "emoji": "🛏️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 241,
+    "turkish": "battaniye",
+    "russian": "одеяло",
+    "emoji": "🛏️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 242,
+    "turkish": "çöp",
+    "russian": "мусор",
+    "emoji": "🗑️",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 243,
+    "turkish": "temiz",
+    "russian": "чистый",
+    "emoji": "✨",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 244,
+    "turkish": "kirli",
+    "russian": "грязный",
+    "emoji": "💩",
+    "category": "Дом",
+    "image": "./images/cat-dom.svg"
+  },
+  {
+    "id": 245,
+    "turkish": "büyük",
+    "russian": "большой",
+    "emoji": "📏",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 246,
+    "turkish": "küçük",
+    "russian": "маленький",
+    "emoji": "🐜",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 247,
+    "turkish": "yeni",
+    "russian": "новый",
+    "emoji": "🆕",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 248,
+    "turkish": "eski",
+    "russian": "старый",
+    "emoji": "🏚️",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 249,
+    "turkish": "güzel",
+    "russian": "красивый",
+    "emoji": "✨",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 250,
+    "turkish": "şehir",
+    "russian": "город",
+    "emoji": "🏙️",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 251,
+    "turkish": "sokak",
+    "russian": "улица",
+    "emoji": "🛣️",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 252,
+    "turkish": "cadde",
+    "russian": "проспект",
+    "emoji": "🏙️",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 253,
+    "turkish": "meydan",
+    "russian": "площадь",
+    "emoji": "🏛️",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 254,
+    "turkish": "köprü",
+    "russian": "мост",
+    "emoji": "🌉",
+    "category": "Город",
+    "image": "./images/254.jpg"
+  },
+  {
+    "id": 255,
+    "turkish": "park",
+    "russian": "парк",
+    "emoji": "🌳",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 256,
+    "turkish": "cami",
+    "russian": "мечеть",
+    "emoji": "🕌",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 257,
+    "turkish": "kilise",
+    "russian": "церковь",
+    "emoji": "⛪",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 258,
+    "turkish": "okul",
+    "russian": "школа",
+    "emoji": "🏫",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 259,
+    "turkish": "hastane",
+    "russian": "больница",
+    "emoji": "🏥",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 260,
+    "turkish": "eczane",
+    "russian": "аптека",
+    "emoji": "💊",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 261,
+    "turkish": "market",
+    "russian": "магазин",
+    "emoji": "🏪",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 262,
+    "turkish": "süpermarket",
+    "russian": "супермаркет",
+    "emoji": "🛒",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 263,
+    "turkish": "restoran",
+    "russian": "ресторан",
+    "emoji": "🍽️",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 264,
+    "turkish": "kafe",
+    "russian": "кафе",
+    "emoji": "☕",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 265,
+    "turkish": "banka",
+    "russian": "банк",
+    "emoji": "🏦",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 266,
+    "turkish": "postane",
+    "russian": "почта",
+    "emoji": "📮",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 267,
+    "turkish": "otel",
+    "russian": "отель",
+    "emoji": "🏨",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 268,
+    "turkish": "havaalanı",
+    "russian": "аэропорт",
+    "emoji": "✈️",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 269,
+    "turkish": "istasyon",
+    "russian": "станция",
+    "emoji": "🚉",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 270,
+    "turkish": "durak",
+    "russian": "остановка",
+    "emoji": "🚏",
+    "category": "Город",
+    "image": "./images/cat-gorod.svg"
+  },
+  {
+    "id": 271,
+    "turkish": "araba",
+    "russian": "машина",
+    "emoji": "🚗",
+    "category": "Транспорт",
+    "image": "./images/271.jpg"
+  },
+  {
+    "id": 272,
+    "turkish": "otobüs",
+    "russian": "автобус",
+    "emoji": "🚌",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 273,
+    "turkish": "metro",
+    "russian": "метро",
+    "emoji": "🚇",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 274,
+    "turkish": "tren",
+    "russian": "поезд",
+    "emoji": "🚂",
+    "category": "Транспорт",
+    "image": "./images/274.jpg"
+  },
+  {
+    "id": 275,
+    "turkish": "taksi",
+    "russian": "такси",
+    "emoji": "🚕",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 276,
+    "turkish": "bisiklet",
+    "russian": "велосипед",
+    "emoji": "🚲",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 277,
+    "turkish": "motosiklet",
+    "russian": "мотоцикл",
+    "emoji": "🏍️",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 278,
+    "turkish": "uçak",
+    "russian": "самолёт",
+    "emoji": "✈️",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 279,
+    "turkish": "gemi",
+    "russian": "корабль",
+    "emoji": "🚢",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 280,
+    "turkish": "feribot",
+    "russian": "паром",
+    "emoji": "⛴️",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 281,
+    "turkish": "dolmuş",
+    "russian": "маршрутка",
+    "emoji": "🚐",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 282,
+    "turkish": "trafik",
+    "russian": "пробка",
+    "emoji": "🚦",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 283,
+    "turkish": "yol",
+    "russian": "дорога",
+    "emoji": "🛣️",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 284,
+    "turkish": "harita",
+    "russian": "карта",
+    "emoji": "🗺️",
+    "category": "Транспорт",
+    "image": "./images/284.jpg"
+  },
+  {
+    "id": 285,
+    "turkish": "bilet",
+    "russian": "билет",
+    "emoji": "🎫",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 286,
+    "turkish": "pasaport",
+    "russian": "паспорт",
+    "emoji": "🛂",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 287,
+    "turkish": "vize",
+    "russian": "виза",
+    "emoji": "📋",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 288,
+    "turkish": "bagaj",
+    "russian": "багаж",
+    "emoji": "🧳",
+    "category": "Транспорт",
+    "image": "./images/cat-transport.svg"
+  },
+  {
+    "id": 289,
+    "turkish": "sağ",
+    "russian": "право / правый",
+    "emoji": "➡️",
+    "category": "Направления",
+    "image": "./images/cat-nav.svg"
+  },
+  {
+    "id": 290,
+    "turkish": "sol",
+    "russian": "лево / левый",
+    "emoji": "⬅️",
+    "category": "Направления",
+    "image": "./images/cat-nav.svg"
+  },
+  {
+    "id": 291,
+    "turkish": "düz",
+    "russian": "прямо",
+    "emoji": "⬆️",
+    "category": "Направления",
+    "image": "./images/cat-nav.svg"
+  },
+  {
+    "id": 292,
+    "turkish": "yakın",
+    "russian": "близко",
+    "emoji": "📍",
+    "category": "Направления",
+    "image": "./images/cat-nav.svg"
+  },
+  {
+    "id": 293,
+    "turkish": "uzak",
+    "russian": "далеко",
+    "emoji": "🔭",
+    "category": "Направления",
+    "image": "./images/cat-nav.svg"
+  },
+  {
+    "id": 294,
+    "turkish": "burada",
+    "russian": "здесь",
+    "emoji": "📍",
+    "category": "Направления",
+    "image": "./images/cat-nav.svg"
+  },
+  {
+    "id": 295,
+    "turkish": "para",
+    "russian": "деньги",
+    "emoji": "💰",
+    "category": "Покупки",
+    "image": "./images/295.jpg"
+  },
+  {
+    "id": 296,
+    "turkish": "lira",
+    "russian": "лира",
+    "emoji": "💵",
+    "category": "Покупки",
+    "image": "./images/296.jpg"
+  },
+  {
+    "id": 297,
+    "turkish": "fiyat",
+    "russian": "цена",
+    "emoji": "🏷️",
+    "category": "Покупки",
+    "image": "./images/297.jpg"
+  },
+  {
+    "id": 298,
+    "turkish": "pahalı",
+    "russian": "дорогой",
+    "emoji": "💎",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 299,
+    "turkish": "ucuz",
+    "russian": "дешёвый",
+    "emoji": "🏷️",
+    "category": "Покупки",
+    "image": "./images/299.jpg"
+  },
+  {
+    "id": 300,
+    "turkish": "indirim",
+    "russian": "скидка",
+    "emoji": "🏷️",
+    "category": "Покупки",
+    "image": "./images/300.jpg"
+  },
+  {
+    "id": 301,
+    "turkish": "satın almak",
+    "russian": "покупать",
+    "emoji": "🛍️",
+    "category": "Покупки",
+    "image": "./images/301.jpg"
+  },
+  {
+    "id": 302,
+    "turkish": "satmak",
+    "russian": "продавать",
+    "emoji": "💰",
+    "category": "Покупки",
+    "image": "./images/302.jpg"
+  },
+  {
+    "id": 303,
+    "turkish": "ödemek",
+    "russian": "платить",
+    "emoji": "💳",
+    "category": "Покупки",
+    "image": "./images/303.jpg"
+  },
+  {
+    "id": 304,
+    "turkish": "kredi kartı",
+    "russian": "кредитная карта",
+    "emoji": "💳",
+    "category": "Покупки",
+    "image": "./images/304.jpg"
+  },
+  {
+    "id": 305,
+    "turkish": "nakit",
+    "russian": "наличные",
+    "emoji": "💵",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 306,
+    "turkish": "fiş",
+    "russian": "чек",
+    "emoji": "🧾",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 307,
+    "turkish": "fatura",
+    "russian": "счёт",
+    "emoji": "📄",
+    "category": "Покупки",
+    "image": "./images/307.jpg"
+  },
+  {
+    "id": 308,
+    "turkish": "alışveriş",
+    "russian": "шопинг",
+    "emoji": "🛒",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 309,
+    "turkish": "çanta",
+    "russian": "сумка",
+    "emoji": "👜",
+    "category": "Покупки",
+    "image": "./images/309.jpg"
+  },
+  {
+    "id": 310,
+    "turkish": "hediye",
+    "russian": "подарок",
+    "emoji": "🎁",
+    "category": "Покупки",
+    "image": "./images/310.jpg"
+  },
+  {
+    "id": 311,
+    "turkish": "bedava",
+    "russian": "бесплатно",
+    "emoji": "🆓",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 312,
+    "turkish": "kira",
+    "russian": "аренда",
+    "emoji": "🏠",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 313,
+    "turkish": "fatura ödemek",
+    "russian": "оплатить счёт",
+    "emoji": "💡",
+    "category": "Покупки",
+    "image": "./images/313.jpg"
+  },
+  {
+    "id": 314,
+    "turkish": "pazar",
+    "russian": "рынок / базар",
+    "emoji": "🏪",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 315,
+    "turkish": "kasiyer",
+    "russian": "кассир",
+    "emoji": "🧑‍💼",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 316,
+    "turkish": "müşteri",
+    "russian": "клиент",
+    "emoji": "🧑",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 317,
+    "turkish": "denemek",
+    "russian": "примерять",
+    "emoji": "👗",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 318,
+    "turkish": "beden",
+    "russian": "размер",
+    "emoji": "📏",
+    "category": "Покупки",
+    "image": "./images/318.jpg"
+  },
+  {
+    "id": 319,
+    "turkish": "renk",
+    "russian": "цвет",
+    "emoji": "🎨",
+    "category": "Покупки",
+    "image": "./images/cat-shop.svg"
+  },
+  {
+    "id": 320,
+    "turkish": "kırmızı",
+    "russian": "красный",
+    "emoji": "🔴",
+    "category": "Цвета",
+    "image": "./images/cat-color.svg"
+  },
+  {
+    "id": 321,
+    "turkish": "mavi",
+    "russian": "синий",
+    "emoji": "🔵",
+    "category": "Цвета",
+    "image": "./images/cat-color.svg"
+  },
+  {
+    "id": 322,
+    "turkish": "yeşil",
+    "russian": "зелёный",
+    "emoji": "🟢",
+    "category": "Цвета",
+    "image": "./images/cat-color.svg"
+  },
+  {
+    "id": 323,
+    "turkish": "sarı",
+    "russian": "жёлтый",
+    "emoji": "🟡",
+    "category": "Цвета",
+    "image": "./images/323.jpg"
+  },
+  {
+    "id": 324,
+    "turkish": "siyah",
+    "russian": "чёрный",
+    "emoji": "⚫",
+    "category": "Цвета",
+    "image": "./images/324.png"
+  },
+  {
+    "id": 325,
+    "turkish": "sağlık",
+    "russian": "здоровье",
+    "emoji": "❤️‍🩹",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 326,
+    "turkish": "hasta",
+    "russian": "больной",
+    "emoji": "🤒",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 327,
+    "turkish": "ağrı",
+    "russian": "боль",
+    "emoji": "😣",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 328,
+    "turkish": "baş ağrısı",
+    "russian": "головная боль",
+    "emoji": "🤕",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 329,
+    "turkish": "ateş",
+    "russian": "температура / огонь",
+    "emoji": "🌡️",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 330,
+    "turkish": "öksürük",
+    "russian": "кашель",
+    "emoji": "😷",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 331,
+    "turkish": "ilaç",
+    "russian": "лекарство",
+    "emoji": "💊",
+    "category": "Здоровье",
+    "image": "./images/331.jpg"
+  },
+  {
+    "id": 332,
+    "turkish": "reçete",
+    "russian": "рецепт",
+    "emoji": "📋",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 333,
+    "turkish": "randevu",
+    "russian": "запись / встреча",
+    "emoji": "📅",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 334,
+    "turkish": "acil",
+    "russian": "срочно / неотложка",
+    "emoji": "🚨",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 335,
+    "turkish": "ambulans",
+    "russian": "скорая",
+    "emoji": "🚑",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 336,
+    "turkish": "diş",
+    "russian": "зуб",
+    "emoji": "🦷",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 337,
+    "turkish": "göz",
+    "russian": "глаз",
+    "emoji": "👁️",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 338,
+    "turkish": "kulak",
+    "russian": "ухо",
+    "emoji": "👂",
+    "category": "Здоровье",
+    "image": "./images/338.jpg"
+  },
+  {
+    "id": 339,
+    "turkish": "burun",
+    "russian": "нос",
+    "emoji": "👃",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 340,
+    "turkish": "ağız",
+    "russian": "рот",
+    "emoji": "👄",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 341,
+    "turkish": "el",
+    "russian": "рука",
+    "emoji": "✋",
+    "category": "Тело",
+    "image": "./images/cat-body.svg"
+  },
+  {
+    "id": 342,
+    "turkish": "ayak",
+    "russian": "нога / ступня",
+    "emoji": "🦶",
+    "category": "Тело",
+    "image": "./images/342.jpg"
+  },
+  {
+    "id": 343,
+    "turkish": "baş",
+    "russian": "голова",
+    "emoji": "🗣️",
+    "category": "Тело",
+    "image": "./images/343.jpg"
+  },
+  {
+    "id": 344,
+    "turkish": "kalp",
+    "russian": "сердце",
+    "emoji": "❤️",
+    "category": "Тело",
+    "image": "./images/cat-body.svg"
+  },
+  {
+    "id": 345,
+    "turkish": "mide",
+    "russian": "желудок",
+    "emoji": "🫃",
+    "category": "Тело",
+    "image": "./images/cat-body.svg"
+  },
+  {
+    "id": 346,
+    "turkish": "saç",
+    "russian": "волосы",
+    "emoji": "💇",
+    "category": "Тело",
+    "image": "./images/cat-body.svg"
+  },
+  {
+    "id": 347,
+    "turkish": "yüz",
+    "russian": "лицо",
+    "emoji": "😊",
+    "category": "Тело",
+    "image": "./images/cat-body.svg"
+  },
+  {
+    "id": 348,
+    "turkish": "vücut",
+    "russian": "тело",
+    "emoji": "🧍",
+    "category": "Тело",
+    "image": "./images/348.jpg"
+  },
+  {
+    "id": 349,
+    "turkish": "uyumak",
+    "russian": "спать",
+    "emoji": "😴",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 350,
+    "turkish": "yorgun",
+    "russian": "усталый",
+    "emoji": "😫",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 351,
+    "turkish": "dinlenmek",
+    "russian": "отдыхать",
+    "emoji": "🛋️",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 352,
+    "turkish": "spor",
+    "russian": "спорт",
+    "emoji": "🏃",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 353,
+    "turkish": "koşmak",
+    "russian": "бегать",
+    "emoji": "🏃",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 354,
+    "turkish": "yüzmek",
+    "russian": "плавать",
+    "emoji": "🏊",
+    "category": "Здоровье",
+    "image": "./images/cat-health.svg"
+  },
+  {
+    "id": 355,
+    "turkish": "mutlu",
+    "russian": "счастливый",
+    "emoji": "😊",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 356,
+    "turkish": "üzgün",
+    "russian": "грустный",
+    "emoji": "😢",
+    "category": "Эмоции",
+    "image": "./images/356.jpg"
+  },
+  {
+    "id": 357,
+    "turkish": "kızgın",
+    "russian": "злой",
+    "emoji": "😠",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 358,
+    "turkish": "korkmak",
+    "russian": "бояться",
+    "emoji": "😨",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 359,
+    "turkish": "sevmek",
+    "russian": "любить",
+    "emoji": "❤️",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 360,
+    "turkish": "nefret",
+    "russian": "ненависть",
+    "emoji": "💔",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 361,
+    "turkish": "gülmek",
+    "russian": "смеяться",
+    "emoji": "😂",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 362,
+    "turkish": "ağlamak",
+    "russian": "плакать",
+    "emoji": "😭",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 363,
+    "turkish": "şaşırmak",
+    "russian": "удивляться",
+    "emoji": "😲",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 364,
+    "turkish": "sıkılmak",
+    "russian": "скучать",
+    "emoji": "😑",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 365,
+    "turkish": "heyecanlı",
+    "russian": "взволнованный",
+    "emoji": "🤩",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 366,
+    "turkish": "endişeli",
+    "russian": "обеспокоенный",
+    "emoji": "😟",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 367,
+    "turkish": "rahat",
+    "russian": "спокойный / удобный",
+    "emoji": "😌",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 368,
+    "turkish": "stresli",
+    "russian": "в стрессе",
+    "emoji": "😰",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 369,
+    "turkish": "gururlu",
+    "russian": "гордый",
+    "emoji": "😤",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 370,
+    "turkish": "utangaç",
+    "russian": "застенчивый",
+    "emoji": "😳",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 371,
+    "turkish": "cesur",
+    "russian": "смелый",
+    "emoji": "💪",
+    "category": "Эмоции",
+    "image": "./images/cat-emotion.svg"
+  },
+  {
+    "id": 372,
+    "turkish": "akıllı",
+    "russian": "умный",
+    "emoji": "🧠",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 373,
+    "turkish": "aptal",
+    "russian": "глупый",
+    "emoji": "🤪",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 374,
+    "turkish": "komik",
+    "russian": "смешной",
+    "emoji": "😄",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 375,
+    "turkish": "ciddi",
+    "russian": "серьёзный",
+    "emoji": "😐",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 376,
+    "turkish": "kolay",
+    "russian": "лёгкий",
+    "emoji": "👍",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 377,
+    "turkish": "zor",
+    "russian": "трудный",
+    "emoji": "💪",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 378,
+    "turkish": "hızlı",
+    "russian": "быстрый",
+    "emoji": "⚡",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 379,
+    "turkish": "yavaş",
+    "russian": "медленный",
+    "emoji": "🐢",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 380,
+    "turkish": "sıcak",
+    "russian": "горячий / тёплый",
+    "emoji": "🔥",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 381,
+    "turkish": "soğuk",
+    "russian": "холодный",
+    "emoji": "❄️",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 382,
+    "turkish": "açık",
+    "russian": "открытый / светлый",
+    "emoji": "☀️",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 383,
+    "turkish": "kapalı",
+    "russian": "закрытый / тёмный",
+    "emoji": "🌑",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 384,
+    "turkish": "doğru",
+    "russian": "правильный",
+    "emoji": "✅",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 385,
+    "turkish": "yanlış",
+    "russian": "неправильный",
+    "emoji": "❌",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 386,
+    "turkish": "önemli",
+    "russian": "важный",
+    "emoji": "⭐",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 387,
+    "turkish": "garip",
+    "russian": "странный",
+    "emoji": "🤨",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 388,
+    "turkish": "normal",
+    "russian": "нормальный",
+    "emoji": "👌",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 389,
+    "turkish": "farklı",
+    "russian": "разный",
+    "emoji": "🔀",
+    "category": "Прилагательные",
+    "image": "./images/cat-adj.svg"
+  },
+  {
+    "id": 390,
+    "turkish": "gitmek",
+    "russian": "идти / ехать",
+    "emoji": "🚶",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 391,
+    "turkish": "gelmek",
+    "russian": "приходить / приезжать",
+    "emoji": "🏃",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 392,
+    "turkish": "yapmak",
+    "russian": "делать",
+    "emoji": "🔨",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 393,
+    "turkish": "olmak",
+    "russian": "быть / становиться",
+    "emoji": "✨",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 394,
+    "turkish": "almak",
+    "russian": "брать / получать",
+    "emoji": "🤲",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 395,
+    "turkish": "vermek",
+    "russian": "давать",
+    "emoji": "🎁",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 396,
+    "turkish": "söylemek",
+    "russian": "говорить",
+    "emoji": "🗣️",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 397,
+    "turkish": "konuşmak",
+    "russian": "разговаривать",
+    "emoji": "💬",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 398,
+    "turkish": "dinlemek",
+    "russian": "слушать",
+    "emoji": "👂",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 399,
+    "turkish": "duymak",
+    "russian": "слышать",
+    "emoji": "👂",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 400,
+    "turkish": "görmek",
+    "russian": "видеть",
+    "emoji": "👀",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 401,
+    "turkish": "bakmak",
+    "russian": "смотреть",
+    "emoji": "👁️",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 402,
+    "turkish": "bilmek",
+    "russian": "знать",
+    "emoji": "🧠",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 403,
+    "turkish": "anlamak",
+    "russian": "понимать",
+    "emoji": "💡",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 404,
+    "turkish": "düşünmek",
+    "russian": "думать",
+    "emoji": "🤔",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 405,
+    "turkish": "hatırlamak",
+    "russian": "помнить",
+    "emoji": "🧠",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 406,
+    "turkish": "unutmak",
+    "russian": "забывать",
+    "emoji": "🤷",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 407,
+    "turkish": "okumak",
+    "russian": "читать / учиться",
+    "emoji": "📖",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 408,
+    "turkish": "yazmak",
+    "russian": "писать",
+    "emoji": "✍️",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 409,
+    "turkish": "öğrenmek",
+    "russian": "учить / изучать",
+    "emoji": "📚",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 410,
+    "turkish": "öğretmek",
+    "russian": "преподавать",
+    "emoji": "👨‍🏫",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 411,
+    "turkish": "çalışmak",
+    "russian": "работать / учиться",
+    "emoji": "💼",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 412,
+    "turkish": "başlamak",
+    "russian": "начинать",
+    "emoji": "▶️",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 413,
+    "turkish": "bitirmek",
+    "russian": "заканчивать",
+    "emoji": "🏁",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 414,
+    "turkish": "beklemek",
+    "russian": "ждать",
+    "emoji": "⏳",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 415,
+    "turkish": "durmak",
+    "russian": "останавливаться / стоять",
+    "emoji": "🛑",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 416,
+    "turkish": "oturmak",
+    "russian": "сидеть",
+    "emoji": "🪑",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 417,
+    "turkish": "kalkmak",
+    "russian": "вставать",
+    "emoji": "🧍",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 418,
+    "turkish": "yürümek",
+    "russian": "ходить пешком",
+    "emoji": "🚶",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 419,
+    "turkish": "açmak",
+    "russian": "открывать",
+    "emoji": "🔓",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 420,
+    "turkish": "kapatmak",
+    "russian": "закрывать",
+    "emoji": "🔒",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 421,
+    "turkish": "girmek",
+    "russian": "входить",
+    "emoji": "🚪",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 422,
+    "turkish": "çıkmak",
+    "russian": "выходить",
+    "emoji": "🚪",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 423,
+    "turkish": "kullanmak",
+    "russian": "использовать",
+    "emoji": "🔧",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 424,
+    "turkish": "aramak",
+    "russian": "искать / звонить",
+    "emoji": "🔍",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 425,
+    "turkish": "bulmak",
+    "russian": "находить",
+    "emoji": "🎯",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 426,
+    "turkish": "kaybetmek",
+    "russian": "терять",
+    "emoji": "😢",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 427,
+    "turkish": "getirmek",
+    "russian": "приносить",
+    "emoji": "📦",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 428,
+    "turkish": "götürmek",
+    "russian": "увозить / брать с собой",
+    "emoji": "🧳",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 429,
+    "turkish": "taşımak",
+    "russian": "нести / перевозить",
+    "emoji": "📦",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 430,
+    "turkish": "pişirmek",
+    "russian": "готовить (еда)",
+    "emoji": "👨‍🍳",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 431,
+    "turkish": "yıkamak",
+    "russian": "мыть",
+    "emoji": "🧼",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 432,
+    "turkish": "temizlemek",
+    "russian": "убирать / чистить",
+    "emoji": "🧹",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 433,
+    "turkish": "giyinmek",
+    "russian": "одеваться",
+    "emoji": "👔",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 434,
+    "turkish": "soyunmak",
+    "russian": "раздеваться",
+    "emoji": "👕",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 435,
+    "turkish": "sormak",
+    "russian": "спрашивать",
+    "emoji": "❓",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 436,
+    "turkish": "cevap vermek",
+    "russian": "отвечать",
+    "emoji": "💬",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 437,
+    "turkish": "istemek",
+    "russian": "хотеть",
+    "emoji": "🙏",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 438,
+    "turkish": "istememek",
+    "russian": "не хотеть",
+    "emoji": "🙅",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 439,
+    "turkish": "ihtiyacım var",
+    "russian": "мне нужно",
+    "emoji": "🤲",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 440,
+    "turkish": "lazım",
+    "russian": "нужно / надо",
+    "emoji": "📌",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 441,
+    "turkish": "yapabilirim",
+    "russian": "я могу",
+    "emoji": "💪",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 442,
+    "turkish": "yapamam",
+    "russian": "я не могу",
+    "emoji": "🚫",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 443,
+    "turkish": "denemek",
+    "russian": "пробовать",
+    "emoji": "🔄",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 444,
+    "turkish": "başarmak",
+    "russian": "достигать / преуспевать",
+    "emoji": "🏆",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 445,
+    "turkish": "yardım etmek",
+    "russian": "помогать",
+    "emoji": "🤝",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 446,
+    "turkish": "korumak",
+    "russian": "защищать",
+    "emoji": "🛡️",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 447,
+    "turkish": "kavga etmek",
+    "russian": "ссориться",
+    "emoji": "😤",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 448,
+    "turkish": "barışmak",
+    "russian": "мириться",
+    "emoji": "🤝",
+    "category": "Глаголы",
+    "image": "./images/cat-verb.svg"
+  },
+  {
+    "id": 449,
+    "turkish": "hava",
+    "russian": "погода / воздух",
+    "emoji": "🌤️",
+    "category": "Погода",
+    "image": "./images/cat-weather.svg"
+  },
+  {
+    "id": 450,
+    "turkish": "güneş",
+    "russian": "солнце",
+    "emoji": "☀️",
+    "category": "Погода",
+    "image": "./images/cat-weather.svg"
+  },
+  {
+    "id": 451,
+    "turkish": "yağmur",
+    "russian": "дождь",
+    "emoji": "🌧️",
+    "category": "Погода",
+    "image": "./images/cat-weather.svg"
+  },
+  {
+    "id": 452,
+    "turkish": "kar",
+    "russian": "снег",
+    "emoji": "❄️",
+    "category": "Погода",
+    "image": "./images/452.jpg"
+  },
+  {
+    "id": 453,
+    "turkish": "rüzgar",
+    "russian": "ветер",
+    "emoji": "💨",
+    "category": "Погода",
+    "image": "./images/453.gif"
+  },
+  {
+    "id": 454,
+    "turkish": "bulut",
+    "russian": "облако",
+    "emoji": "☁️",
+    "category": "Погода",
+    "image": "./images/454.jpg"
+  },
+  {
+    "id": 455,
+    "turkish": "fırtına",
+    "russian": "шторм",
+    "emoji": "⛈️",
+    "category": "Погода",
+    "image": "./images/455.jpg"
+  },
+  {
+    "id": 456,
+    "turkish": "sis",
+    "russian": "туман",
+    "emoji": "🌫️",
+    "category": "Погода",
+    "image": "./images/cat-weather.svg"
+  },
+  {
+    "id": 457,
+    "turkish": "gökkuşağı",
+    "russian": "радуга",
+    "emoji": "🌈",
+    "category": "Погода",
+    "image": "./images/cat-weather.svg"
+  },
+  {
+    "id": 458,
+    "turkish": "deniz",
+    "russian": "море",
+    "emoji": "🌊",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 459,
+    "turkish": "göl",
+    "russian": "озеро",
+    "emoji": "🏞️",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 460,
+    "turkish": "nehir",
+    "russian": "река",
+    "emoji": "🏞️",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 461,
+    "turkish": "dağ",
+    "russian": "гора",
+    "emoji": "⛰️",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 462,
+    "turkish": "orman",
+    "russian": "лес",
+    "emoji": "🌲",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 463,
+    "turkish": "ağaç",
+    "russian": "дерево",
+    "emoji": "🌳",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 464,
+    "turkish": "çiçek",
+    "russian": "цветок",
+    "emoji": "🌸",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 465,
+    "turkish": "hayvan",
+    "russian": "животное",
+    "emoji": "🐾",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 466,
+    "turkish": "köpek",
+    "russian": "собака",
+    "emoji": "🐕",
+    "category": "Природа",
+    "image": "./images/466.jpg"
+  },
+  {
+    "id": 467,
+    "turkish": "kedi",
+    "russian": "кошка",
+    "emoji": "🐈",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 468,
+    "turkish": "kuş",
+    "russian": "птица",
+    "emoji": "🐦",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 469,
+    "turkish": "at",
+    "russian": "лошадь",
+    "emoji": "🐴",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 470,
+    "turkish": "inek",
+    "russian": "корова",
+    "emoji": "🐄",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 471,
+    "turkish": "koyun",
+    "russian": "овца",
+    "emoji": "🐑",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 472,
+    "turkish": "plaj",
+    "russian": "пляж",
+    "emoji": "🏖️",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 473,
+    "turkish": "kum",
+    "russian": "песок",
+    "emoji": "🏖️",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 474,
+    "turkish": "taş",
+    "russian": "камень",
+    "emoji": "🪨",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 475,
+    "turkish": "toprak",
+    "russian": "земля / почва",
+    "emoji": "🌍",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 476,
+    "turkish": "gökyüzü",
+    "russian": "небо",
+    "emoji": "🌌",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 477,
+    "turkish": "yıldız",
+    "russian": "звезда",
+    "emoji": "⭐",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 478,
+    "turkish": "dünya",
+    "russian": "мир / земля",
+    "emoji": "🌍",
+    "category": "Природа",
+    "image": "./images/cat-nature.svg"
+  },
+  {
+    "id": 479,
+    "turkish": "seyahat",
+    "russian": "путешествие",
+    "emoji": "✈️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 480,
+    "turkish": "tatil",
+    "russian": "отпуск",
+    "emoji": "🏖️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 481,
+    "turkish": "turist",
+    "russian": "турист",
+    "emoji": "🧳",
+    "category": "Путешествия",
+    "image": "./images/481.jpg"
+  },
+  {
+    "id": 482,
+    "turkish": "rehber",
+    "russian": "гид",
+    "emoji": "🗺️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 483,
+    "turkish": "tur",
+    "russian": "тур",
+    "emoji": "🚌",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 484,
+    "turkish": "rezervasyon",
+    "russian": "бронирование",
+    "emoji": "📋",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 485,
+    "turkish": "oda numarası",
+    "russian": "номер комнаты",
+    "emoji": "🔑",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 486,
+    "turkish": "anahtar",
+    "russian": "ключ",
+    "emoji": "🔑",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 487,
+    "turkish": "giriş",
+    "russian": "вход",
+    "emoji": "🚪",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 488,
+    "turkish": "çıkış",
+    "russian": "выход",
+    "emoji": "🚪",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 489,
+    "turkish": "gümrük",
+    "russian": "таможня",
+    "emoji": "🛃",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 490,
+    "turkish": "sınır",
+    "russian": "граница",
+    "emoji": "🛂",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 491,
+    "turkish": "valiz",
+    "russian": "чемодан",
+    "emoji": "🧳",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 492,
+    "turkish": "fotoğraf",
+    "russian": "фотография",
+    "emoji": "📸",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 493,
+    "turkish": "hatıra",
+    "russian": "сувенир / память",
+    "emoji": "🎁",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 494,
+    "turkish": "müze",
+    "russian": "музей",
+    "emoji": "🏛️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 495,
+    "turkish": "kale",
+    "russian": "крепость / замок",
+    "emoji": "🏰",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 496,
+    "turkish": "yüzme",
+    "russian": "купание",
+    "emoji": "🏊",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 497,
+    "turkish": "güneşlenmek",
+    "russian": "загорать",
+    "emoji": "☀️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 498,
+    "turkish": "kaybolmak",
+    "russian": "заблудиться",
+    "emoji": "🗺️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 499,
+    "turkish": "İstanbul",
+    "russian": "Стамбул",
+    "emoji": "🕌",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  },
+  {
+    "id": 500,
+    "turkish": "Ankara",
+    "russian": "Анкара",
+    "emoji": "🏛️",
+    "category": "Путешествия",
+    "image": "./images/cat-travel.svg"
+  }
+]

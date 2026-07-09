@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+__pycache__/
+words_remote_backup.json
