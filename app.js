@@ -1,4 +1,4 @@
-/* Türkçe Öğren — Duolingo style */
+/* Учим турецкий — только слова */
 
 let allWords = [];
 let lessonWords = [];
@@ -14,20 +14,11 @@ let turkishVoice = null;
 
 const STORAGE = 'turkce_progress';
 
-const UNITS = {
-  'Приветствия': { icon: '👋', key: 'Приветствия' },
-  'Еда': { icon: '🍽️', key: 'Еда' },
-  'Семья': { icon: '👨‍👩‍👧', key: 'Семья' },
-  'Город': { icon: '🏙️', key: 'Город' },
-  'Транспорт': { icon: '🚌', key: 'Транспорт' },
-  'Путешествия': { icon: '✈️', key: 'Путешествия' },
-  'Природа': { icon: '🌳', key: 'Природа' },
-  'Глаголы': { icon: '🏃', key: 'Глаголы' },
-  'Эмоции': { icon: '😊', key: 'Эмоции' },
-  'Дом': { icon: '🏠', key: 'Дом' },
-};
+const UNITS = [
+  'Приветствия', 'Еда', 'Семья', 'Город', 'Транспорт',
+  'Путешествия', 'Природа', 'Глаголы', 'Эмоции', 'Дом',
+];
 
-// ── Speech ──────────────────────────────────────────
 function initSpeech() {
   const load = () => {
     turkishVoice = speechSynthesis.getVoices().find(v => v.lang.startsWith('tr')) || null;
@@ -46,7 +37,6 @@ function speak(text) {
   speechSynthesis.speak(u);
 }
 
-// ── Progress ────────────────────────────────────────
 function getProgress() {
   try {
     return JSON.parse(localStorage.getItem(STORAGE)) || { learned: [], xp: 0, streak: 0, bestStreak: 0 };
@@ -68,7 +58,6 @@ function updateHomeStats() {
   document.getElementById('xp-fill').style.width = Math.round(p.learned.length / 500 * 100) + '%';
 }
 
-// ── Init ──────────────────────────────────────────
 async function init() {
   initSpeech();
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js').catch(() => {});
@@ -81,11 +70,11 @@ async function init() {
 function buildUnits() {
   const grid = document.getElementById('unit-grid');
   grid.innerHTML = '';
-  Object.entries(UNITS).forEach(([name, { icon, key }]) => {
+  UNITS.forEach(key => {
     const count = allWords.filter(w => w.category === key).length;
     const btn = document.createElement('button');
     btn.className = 'unit-chip';
-    btn.innerHTML = `<span class="unit-chip-icon">${icon}</span><span class="unit-chip-info">${name}<small>${count} слов</small></span>`;
+    btn.innerHTML = `<span class="unit-chip-info">${key}<small>${count} слов</small></span>`;
     btn.addEventListener('click', () => startLesson(key));
     grid.appendChild(btn);
   });
@@ -119,19 +108,13 @@ function shuffle(arr) {
   return a;
 }
 
-function imgSrc(word) {
-  return word.image || '';
-}
-
 function uniqueDistractors(correct, pool, count, field) {
-  const used = new Set([correct.id, correct.image, correct.emoji, correct[field]]);
+  const used = new Set([correct.id, correct[field]]);
   const result = [];
   for (const w of shuffle(pool)) {
     if (w.id === correct.id) continue;
-    if (used.has(w.id) || used.has(w.image) || used.has(w.emoji) || used.has(w[field])) continue;
+    if (used.has(w.id) || used.has(w[field])) continue;
     used.add(w.id);
-    used.add(w.image);
-    used.add(w.emoji);
     used.add(w[field]);
     result.push(w);
     if (result.length >= count) break;
@@ -139,10 +122,9 @@ function uniqueDistractors(correct, pool, count, field) {
   return result;
 }
 
-// ── Lesson ──────────────────────────────────────────
 function startLesson(category) {
   selectedCategory = category;
-  let pool = category === 'all' ? [...allWords] : allWords.filter(w => w.category === category);
+  const pool = category === 'all' ? [...allWords] : allWords.filter(w => w.category === category);
   lessonWords = shuffle(pool).slice(0, 10);
   lessonIndex = 0;
   hearts = 3;
@@ -154,7 +136,7 @@ function startLesson(category) {
 
 function showExercise() {
   selectedOption = null;
-  currentExercise = lessonIndex % 2 === 0 ? 'image-word' : 'listen-image';
+  currentExercise = lessonIndex % 2 === 0 ? 'ru-to-tr' : 'listen-to-ru';
   const word = lessonWords[lessonIndex];
   const total = lessonWords.length;
 
@@ -168,45 +150,31 @@ function showExercise() {
   const body = document.getElementById('lesson-body');
   body.innerHTML = '';
 
-  if (currentExercise === 'image-word') {
-    body.innerHTML = `<p class="exercise-label">Как это по-турецки?</p>
-      <img class="exercise-img" src="${imgSrc(word)}" alt="">
-      <p class="exercise-hint-ru">${word.russian}</p>`;
-    body.appendChild(buildWordOptions(word));
+  if (currentExercise === 'ru-to-tr') {
+    body.innerHTML = `
+      <p class="exercise-label">Как это по-турецки?</p>
+      <div class="word-prompt">${word.russian}</div>`;
+    body.appendChild(buildOptions(word, 'turkish'));
   } else {
-    body.innerHTML = `<p class="exercise-label">Послушай и выбери картинку</p>
-      <p class="exercise-hint-ru">${word.russian}</p>
-      <div class="listen-zone" id="listen-btn">🔊</div>`;
-    body.appendChild(buildImageOptions(word));
+    body.innerHTML = `
+      <p class="exercise-label">Послушай и выбери перевод</p>
+      <button type="button" class="listen-btn" id="listen-btn">Слушать</button>
+      <p class="listen-hint">Нажми, чтобы услышать слово</p>`;
+    body.appendChild(buildOptions(word, 'russian'));
     document.getElementById('listen-btn').addEventListener('click', () => speak(word.turkish));
     setTimeout(() => speak(word.turkish), 400);
   }
 }
 
-function buildWordOptions(correct) {
+function buildOptions(correct, field) {
   const list = document.createElement('div');
   list.className = 'options-list';
-  const opts = shuffle([correct, ...uniqueDistractors(correct, allWords, 3, 'turkish')]);
+  const opts = shuffle([correct, ...uniqueDistractors(correct, allWords, 3, field)]);
   opts.forEach(w => {
     const btn = document.createElement('button');
     btn.className = 'option';
-    btn.textContent = w.turkish;
+    btn.textContent = w[field];
     btn.dataset.id = w.id;
-    btn.addEventListener('click', () => selectOption(btn));
-    list.appendChild(btn);
-  });
-  return list;
-}
-
-function buildImageOptions(correct) {
-  const list = document.createElement('div');
-  list.className = 'options-list';
-  const opts = shuffle([correct, ...uniqueDistractors(correct, allWords, 3, 'turkish')]);
-  opts.forEach(w => {
-    const btn = document.createElement('button');
-    btn.className = 'option option-img-only';
-    btn.dataset.id = w.id;
-    btn.innerHTML = `<img class="option-img" src="${imgSrc(w)}" alt="">`;
     btn.addEventListener('click', () => selectOption(btn));
     list.appendChild(btn);
   });
@@ -240,7 +208,7 @@ function checkAnswer() {
 
   if (correct) {
     banner.classList.add('ok');
-    banner.innerHTML = `✓ Верно!<br><strong>${word.turkish}</strong> — ${word.russian}`;
+    banner.innerHTML = `Верно!<br><strong>${word.turkish}</strong> — ${word.russian}`;
     lessonScore++;
     p.streak++;
     if (p.streak > p.bestStreak) p.bestStreak = p.streak;
@@ -248,7 +216,7 @@ function checkAnswer() {
     speak(word.turkish);
   } else {
     banner.classList.add('bad');
-    banner.innerHTML = `✗ Правильно:<br><strong>${word.turkish}</strong> — ${word.russian}`;
+    banner.innerHTML = `Правильно:<br><strong>${word.turkish}</strong> — ${word.russian}`;
     hearts--;
     p.streak = 0;
     document.getElementById('hearts').textContent = hearts;
@@ -276,9 +244,8 @@ function finishLesson() {
   updateHomeStats();
 }
 
-// ── Cards ───────────────────────────────────────────
 function startCards(category) {
-  let pool = category === 'all' ? [...allWords] : allWords.filter(w => w.category === category);
+  const pool = category === 'all' ? [...allWords] : allWords.filter(w => w.category === category);
   cardDeck = shuffle(pool).slice(0, 20);
   cardIndex = 0;
   showScreen('screen-cards');
@@ -288,7 +255,6 @@ function startCards(category) {
 function renderCard() {
   const w = cardDeck[cardIndex];
   document.getElementById('cards-counter').textContent = `${cardIndex + 1} / ${cardDeck.length}`;
-  document.getElementById('card-img').innerHTML = `<img src="${imgSrc(w)}" alt="">`;
   document.getElementById('card-ru-front').textContent = w.russian;
   document.getElementById('card-word').textContent = w.turkish;
   document.getElementById('card-ru').textContent = w.russian;

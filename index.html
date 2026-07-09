@@ -10,7 +10,7 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="icon" href="icons/icon-192.png">
-  <link rel="stylesheet" href="style.css?v=4">
+  <link rel="stylesheet" href="style.css?v=5">
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -18,14 +18,13 @@
 
     <section id="screen-home" class="screen active">
       <header class="top-bar">
-        <div class="stat-pill streak">🔥 <span id="stat-streak">0</span></div>
-        <div class="stat-pill xp">⭐ <span id="stat-xp">0</span> XP</div>
+        <div class="stat-pill streak">Серия: <span id="stat-streak">0</span></div>
+        <div class="stat-pill xp"><span id="stat-xp">0</span> XP</div>
       </header>
 
       <div class="mascot-area">
-        <div class="mascot">🇹🇷</div>
         <h1>Учим турецкий</h1>
-        <p class="tagline">500 слов · картинки · озвучка</p>
+        <p class="tagline">500 слов · перевод · озвучка</p>
       </div>
 
       <div class="xp-bar-wrap">
@@ -35,11 +34,11 @@
 
       <button class="btn-main" id="btn-start-lesson">
         <span class="btn-main-label">Начать урок</span>
-        <span class="btn-main-sub">Картинки + аудио · 10 слов</span>
+        <span class="btn-main-sub">10 слов · перевод и аудио</span>
       </button>
 
       <button class="btn-secondary-full" id="btn-start-cards">
-        🃏 Карточки — слушай и учи
+        Карточки — учи слова
       </button>
 
       <div class="unit-grid" id="unit-grid"></div>
@@ -49,7 +48,7 @@
       <header class="lesson-header">
         <button class="btn-close" id="btn-close-lesson">✕</button>
         <div class="lesson-progress-bar"><div id="lesson-fill"></div></div>
-        <div class="lesson-hearts">❤️ <span id="hearts">3</span></div>
+        <div class="lesson-hearts">Жизни: <span id="hearts">3</span></div>
       </header>
 
       <div class="lesson-body" id="lesson-body"></div>
@@ -70,27 +69,27 @@
       <div class="card-stage">
         <div class="duo-card" id="duo-card">
           <div class="duo-card-front">
-            <div class="card-img" id="card-img"></div>
+            <p class="card-side-label">По-русски</p>
             <div class="card-ru-front" id="card-ru-front">привет</div>
           </div>
           <div class="duo-card-back">
+            <p class="card-side-label">По-турецки</p>
             <div class="card-word" id="card-word">merhaba</div>
             <div class="card-ru" id="card-ru">привет</div>
-            <button class="btn-sound" id="card-sound">🔊</button>
+            <button class="btn-sound" id="card-sound">Слушать</button>
           </div>
         </div>
         <p class="card-hint">Нажми, чтобы перевернуть</p>
       </div>
 
       <div class="card-actions">
-        <button class="btn-card btn-again" id="btn-again">🔊 Ещё раз</button>
-        <button class="btn-card btn-know" id="btn-know">Знаю ✓</button>
+        <button class="btn-card btn-again" id="btn-again">Ещё раз</button>
+        <button class="btn-card btn-know" id="btn-know">Знаю</button>
       </div>
     </section>
 
     <section id="screen-complete" class="screen">
       <div class="complete-box">
-        <div class="complete-icon">🎉</div>
         <h2>Отлично!</h2>
         <p class="complete-xp">+<span id="complete-xp">10</span> XP</p>
         <p class="complete-score" id="complete-score">8 / 10</p>
@@ -99,6 +98,6 @@
     </section>
 
   </div>
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>

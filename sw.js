@@ -1,4 +1,4 @@
-const CACHE_NAME = 'turkish-vocab-v8';
+const CACHE_NAME = 'turkish-vocab-v9';
 const APP_SHELL = [
   './',
   './index.html',
@@ -11,20 +11,7 @@ const APP_SHELL = [
 ];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(async (cache) => {
-      await cache.addAll(APP_SHELL);
-      // Кэшируем все локальные фото для офлайн-режима
-      try {
-        const res = await fetch('./words.json');
-        const words = await res.json();
-        const images = words
-          .map(w => w.image)
-          .filter(u => u && u.startsWith('./images/'));
-        await Promise.allSettled(images.map(u => cache.add(u)));
-      } catch { /* offline install */ }
-    })
-  );
+  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)));
   self.skipWaiting();
 });
 
@@ -42,37 +29,17 @@ self.addEventListener('fetch', (event) => {
   if (request.method !== 'GET') return;
 
   const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return;
 
-  // Same origin: network-first so updates appear quickly
-  if (url.origin === self.location.origin) {
-    event.respondWith(
-      fetch(request)
-        .then((response) => {
-          if (response.ok) {
-            const clone = response.clone();
-            caches.open(CACHE_NAME).then((c) => c.put(request, clone));
-          }
-          return response;
-        })
-        .catch(() => caches.match(request).then((r) => r || caches.match('./index.html')))
-    );
-    return;
-  }
-
-  // Внешние картинки (если остались)
-  if (url.hostname.includes('wikimedia.org') || url.hostname.includes('wikipedia.org')) {
-    event.respondWith(
-      caches.open(CACHE_NAME).then(async (cache) => {
-        const cached = await cache.match(request);
-        if (cached) return cached;
-        try {
-          const response = await fetch(request);
-          if (response.ok) cache.put(request, response.clone());
-          return response;
-        } catch {
-          return cached || Response.error();
+  event.respondWith(
+    fetch(request)
+      .then((response) => {
+        if (response.ok) {
+          const clone = response.clone();
+          caches.open(CACHE_NAME).then((c) => c.put(request, clone));
         }
+        return response;
       })
-    );
-  }
+      .catch(() => caches.match(request).then((r) => r || caches.match('./index.html')))
+  );
 });
