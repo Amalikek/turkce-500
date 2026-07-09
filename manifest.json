@@ -1,27 +1,17 @@
 {
-  "name": "Турецкий — 500 слов",
-  "short_name": "Türkçe 500",
-  "description": "500 разговорных турецких слов с картинками, озвучкой и сохранением прогресса",
+  "name": "Türkçe Öğren",
+  "short_name": "Türkçe",
+  "description": "500 Turkish words — visual & audio learning",
   "id": "/",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0f0f1a",
-  "theme_color": "#E30A17",
-  "lang": "ru",
+  "background_color": "#ffffff",
+  "theme_color": "#58CC02",
+  "lang": "tr",
   "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }

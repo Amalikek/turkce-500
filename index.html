@@ -1,187 +1,106 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="theme-color" content="#E30A17">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#58CC02">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="Türkçe 500">
-  <meta name="description" content="500 турецких слов с фото, озвучкой и сохранением прогресса">
-  <title>🇹🇷 Турецкий — 500 слов</title>
+  <meta name="apple-mobile-web-app-title" content="Türkçe">
+  <title>Türkçe Öğren</title>
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="style.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
   <div class="app">
-    <!-- Главное меню -->
-    <section id="screen-menu" class="screen active">
-      <header class="hero">
-        <div class="hero-flag">🇹🇷</div>
-        <h1>Разговорный турецкий</h1>
-        <p class="subtitle">500 слов с фото, озвучкой и сохранением прогресса</p>
-        <div class="stats-bar" id="global-stats">
-          <div class="stat"><span id="stat-learned">0</span><small>изучено</small></div>
-          <div class="stat"><span id="stat-streak">0</span><small>серия ✓</small></div>
-          <div class="stat"><span id="stat-accuracy">0%</span><small>точность</small></div>
-        </div>
-        <p class="save-status" id="save-status">💾 Прогресс сохранён</p>
+
+    <!-- Ana ekran -->
+    <section id="screen-home" class="screen active">
+      <header class="top-bar">
+        <div class="stat-pill streak">🔥 <span id="stat-streak">0</span></div>
+        <div class="stat-pill xp">⭐ <span id="stat-xp">0</span> XP</div>
       </header>
 
-      <div class="install-banner" id="install-banner">
-        <p>📱 <strong>Установи на телефон</strong> — работает без компьютера, как обычное приложение</p>
-        <button type="button" class="btn-primary btn-install" id="btn-install">Как установить</button>
-        <button type="button" class="btn-dismiss" id="btn-dismiss-install">✕</button>
+      <div class="mascot-area">
+        <div class="mascot">🇹🇷</div>
+        <h1>Türkçe Öğren</h1>
+        <p class="tagline">500 kelime · görsel · sesli</p>
       </div>
 
-      <div class="mode-grid">
-        <button class="mode-card" data-mode="picture-to-turkish">
-          <span class="mode-icon">🖼️→🇹🇷</span>
-          <strong>Картинка → Турецкий</strong>
-          <small>Увидел картинку — выбери слово</small>
-        </button>
-        <button class="mode-card" data-mode="picture-to-russian">
-          <span class="mode-icon">🖼️→🇷🇺</span>
-          <strong>Картинка → Перевод</strong>
-          <small>Увидел картинку — выбери перевод</small>
-        </button>
-        <button class="mode-card" data-mode="turkish-to-picture">
-          <span class="mode-icon">🇹🇷→🖼️</span>
-          <strong>Турецкий → Картинка</strong>
-          <small>Прочитал слово — выбери картинку</small>
-        </button>
-        <button class="mode-card" data-mode="listen-to-turkish">
-          <span class="mode-icon">🔊→🖼️</span>
-          <strong>Слушай → Угадай</strong>
-          <small>Услышал слово — выбери картинку</small>
-        </button>
-        <button class="mode-card" data-mode="flashcards">
-          <span class="mode-icon">🃏</span>
-          <strong>Карточки</strong>
-          <small>Листай и запоминай</small>
-        </button>
-        <button class="mode-card" data-mode="marathon">
-          <span class="mode-icon">🏆</span>
-          <strong>Марафон</strong>
-          <small>Все 500 слов подряд</small>
-        </button>
-        <button class="mode-card" data-mode="review">
-          <span class="mode-icon">🔄</span>
-          <strong>Повторение</strong>
-          <small>Слова, где были ошибки</small>
-        </button>
+      <div class="xp-bar-wrap">
+        <div class="xp-bar"><div id="xp-fill"></div></div>
+        <span id="stat-learned">0</span> / 500 kelime
       </div>
 
-      <div class="filter-section">
-        <label>Категория:</label>
-        <select id="category-filter">
-          <option value="all">Все категории</option>
-        </select>
-        <label>Количество:</label>
-        <select id="count-filter">
-          <option value="10">10 слов</option>
-          <option value="20" selected>20 слов</option>
-          <option value="50">50 слов</option>
-          <option value="100">100 слов</option>
-          <option value="500">Все 500</option>
-        </select>
-      </div>
+      <button class="btn-main" id="btn-start-lesson">
+        <span class="btn-main-label">Dersi Başlat</span>
+        <span class="btn-main-sub">Resim + dinleme · 10 kelime</span>
+      </button>
 
-      <div class="audio-settings">
-        <label class="toggle-label">
-          <input type="checkbox" id="auto-speak" checked>
-          <span>Авто-озвучка слов</span>
-        </label>
-        <label class="speed-label">
-          <span>Скорость:</span>
-          <input type="range" id="speech-rate" min="0.5" max="1.2" step="0.05" value="0.85">
-          <span id="speech-rate-value">0.85×</span>
-        </label>
-        <button type="button" class="btn-speak btn-speak-demo" id="btn-test-voice">🔊 Проверить голос</button>
-      </div>
+      <button class="btn-secondary-full" id="btn-start-cards">
+        🃏 Kartlar — dinle ve öğren
+      </button>
 
-      <div class="progress-backup">
-        <h3>📱 Работа без компьютера</h3>
-        <p class="backup-hint">После установки на главный экран приложение работает само — Mac не нужен. Прогресс хранится на телефоне.</p>
-        <div class="backup-actions">
-          <button type="button" class="btn-secondary" id="btn-export">Скачать бэкап</button>
-          <label class="btn-secondary btn-import">
-            Загрузить бэкап
-            <input type="file" id="btn-import" accept=".json" hidden>
-          </label>
-        </div>
-      </div>
+      <div class="unit-grid" id="unit-grid"></div>
     </section>
 
-    <!-- Экран теста -->
-    <section id="screen-quiz" class="screen">
-      <div class="quiz-header">
-        <button class="btn-back" id="btn-back">← Назад</button>
-        <div class="progress-wrap">
-          <div class="progress-bar"><div id="progress-fill"></div></div>
-          <span id="progress-text">1 / 20</span>
-        </div>
-        <div class="score-live">✓ <span id="live-score">0</span></div>
-      </div>
+    <!-- Ders -->
+    <section id="screen-lesson" class="screen">
+      <header class="lesson-header">
+        <button class="btn-close" id="btn-close-lesson">✕</button>
+        <div class="lesson-progress-bar"><div id="lesson-fill"></div></div>
+        <div class="lesson-hearts">❤️ <span id="hearts">3</span></div>
+      </header>
 
-      <div class="quiz-body" id="quiz-body">
-        <!-- Динамический контент -->
-      </div>
+      <div class="lesson-body" id="lesson-body"></div>
 
-      <div class="feedback hidden" id="feedback">
-        <div id="feedback-content"></div>
-        <button class="btn-next" id="btn-next">Далее →</button>
-      </div>
+      <footer class="lesson-footer hidden" id="lesson-footer">
+        <div class="feedback-banner" id="feedback-banner"></div>
+        <button class="btn-check" id="btn-check" disabled>Kontrol Et</button>
+        <button class="btn-check btn-continue hidden" id="btn-continue">Devam</button>
+      </footer>
     </section>
 
-    <!-- Экран карточек -->
-    <section id="screen-flashcards" class="screen">
-      <div class="quiz-header">
-        <button class="btn-back" id="btn-back-flash">← Назад</button>
-        <span id="flash-progress">1 / 500</span>
-      </div>
-      <div class="flashcard-container" id="flashcard">
-        <div class="flashcard-inner">
-          <div class="flashcard-front">
-            <div class="card-image-wrap" id="fc-image-wrap"></div>
-            <div class="card-category" id="fc-category">Приветствия</div>
+    <!-- Kartlar -->
+    <section id="screen-cards" class="screen">
+      <header class="lesson-header">
+        <button class="btn-close" id="btn-close-cards">✕</button>
+        <span class="cards-counter" id="cards-counter">1 / 20</span>
+      </header>
+
+      <div class="card-stage">
+        <div class="duo-card" id="duo-card">
+          <div class="duo-card-front">
+            <div class="card-img" id="card-img"></div>
           </div>
-          <div class="flashcard-back">
-            <div class="card-turkish" id="fc-turkish">merhaba</div>
-            <div class="card-russian" id="fc-russian">привет</div>
+          <div class="duo-card-back">
+            <div class="card-word" id="card-word">merhaba</div>
+            <button class="btn-sound" id="card-sound">🔊</button>
           </div>
         </div>
+        <p class="card-hint">Kartı çevirmek için dokun</p>
       </div>
-      <p class="flash-hint">Нажми на карточку, чтобы перевернуть</p>
-      <button type="button" class="btn-speak btn-speak-large" id="fc-speak">🔊 Послушать</button>
-      <div class="flash-nav">
-        <button class="btn-nav" id="fc-prev">←</button>
-        <button class="btn-nav btn-know" id="fc-know">Знаю ✓</button>
-        <button class="btn-nav btn-dont-know" id="fc-dont-know">Не знаю ✗</button>
-        <button class="btn-nav" id="fc-next">→</button>
+
+      <div class="card-actions">
+        <button class="btn-card btn-again" id="btn-again">Tekrar</button>
+        <button class="btn-card btn-know" id="btn-know">Biliyorum ✓</button>
       </div>
     </section>
 
-    <!-- Результаты -->
-    <section id="screen-results" class="screen">
-      <div class="results-card">
-        <div class="results-emoji" id="results-emoji">🎉</div>
-        <h2 id="results-title">Отлично!</h2>
-        <div class="results-score" id="results-score">18 / 20</div>
-        <div class="results-percent" id="results-percent">90%</div>
-        <div class="results-details" id="results-details"></div>
-        <div class="results-actions">
-          <button class="btn-primary" id="btn-retry">Ещё раз</button>
-          <button class="btn-secondary" id="btn-menu">В меню</button>
-        </div>
+    <!-- Ders bitti -->
+    <section id="screen-complete" class="screen">
+      <div class="complete-box">
+        <div class="complete-icon">🎉</div>
+        <h2>Harika!</h2>
+        <p class="complete-xp">+<span id="complete-xp">10</span> XP</p>
+        <p class="complete-score" id="complete-score">8 / 10</p>
+        <button class="btn-main" id="btn-home">Devam Et</button>
       </div>
     </section>
+
   </div>
-
   <script src="app.js"></script>
 </body>
 </html>

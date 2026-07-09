@@ -37,7 +37,7 @@
     "russian": "до свидания",
     "emoji": "👋",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w005.svg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "russian": "увидимся",
     "emoji": "🤝",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w006.svg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "russian": "спасибо",
     "emoji": "🙏",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w007.svg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "russian": "спасибо",
     "emoji": "🙏",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w008.svg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "russian": "пожалуйста",
     "emoji": "🙏",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w009.svg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "russian": "извините",
     "emoji": "😔",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w010.svg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "russian": "простите",
     "emoji": "🙇",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w011.svg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "russian": "да",
     "emoji": "✅",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w012.svg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "russian": "нет",
     "emoji": "❌",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w013.svg"
   },
   {
     "id": 14,
@@ -117,7 +117,7 @@
     "russian": "ладно",
     "emoji": "👍",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w015.svg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "russian": "конечно",
     "emoji": "💯",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w016.svg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "russian": "может быть",
     "emoji": "🤔",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w017.svg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "russian": "как дела?",
     "emoji": "😊",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w018.svg"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "russian": "хорошо (я)",
     "emoji": "😊",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w019.svg"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "russian": "как тебя зовут?",
     "emoji": "❓",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w020.svg"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "russian": "меня зовут",
     "emoji": "🪪",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w021.svg"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "russian": "приятно познакомиться",
     "emoji": "🤝",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w022.svg"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "russian": "добро пожаловать",
     "emoji": "🎉",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w023.svg"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "russian": "приятного аппетита",
     "emoji": "🍽️",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w024.svg"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "russian": "выздоравливай",
     "emoji": "💐",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w025.svg"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "russian": "лёгкой работы",
     "emoji": "💪",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w026.svg"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "russian": "удачи",
     "emoji": "🍀",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w027.svg"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "russian": "счастливого пути",
     "emoji": "✈️",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w028.svg"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "russian": "пока (остающемуся)",
     "emoji": "👋",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w029.svg"
   },
   {
     "id": 30,
@@ -245,7 +245,7 @@
     "russian": "что нового?",
     "emoji": "🗣️",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w031.svg"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "russian": "добрый день",
     "emoji": "☀️",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w032.svg"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "russian": "пожалуйста (ответ)",
     "emoji": "😊",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w033.svg"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "russian": "ничего страшного",
     "emoji": "🤷",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w034.svg"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "russian": "понял",
     "emoji": "💡",
     "category": "Приветствия",
-    "image": "./images/cat-privet.svg"
+    "image": "./images/w035.svg"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "russian": "я",
     "emoji": "🙋",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w036.svg"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "russian": "ты",
     "emoji": "👉",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w037.svg"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "russian": "он / она",
     "emoji": "👤",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w038.svg"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "russian": "мы",
     "emoji": "👥",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w039.svg"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "russian": "вы",
     "emoji": "👥",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w040.svg"
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "russian": "они",
     "emoji": "👥",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w041.svg"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "russian": "это",
     "emoji": "👆",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w042.svg"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "russian": "то",
     "emoji": "👉",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w043.svg"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "russian": "то (далёкое)",
     "emoji": "👈",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w044.svg"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "russian": "что",
     "emoji": "❓",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w045.svg"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "russian": "кто",
     "emoji": "🧑",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w046.svg"
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@
     "russian": "где",
     "emoji": "📍",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w047.svg"
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@
     "russian": "куда",
     "emoji": "🧭",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w048.svg"
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@
     "russian": "откуда",
     "emoji": "🗺️",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w049.svg"
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@
     "russian": "когда",
     "emoji": "🕐",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w050.svg"
   },
   {
     "id": 51,
@@ -405,7 +405,7 @@
     "russian": "как",
     "emoji": "🔧",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w051.svg"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "russian": "почему",
     "emoji": "🤷",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w052.svg"
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@
     "russian": "зачем",
     "emoji": "💭",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w053.svg"
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@
     "russian": "сколько",
     "emoji": "🔢",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w054.svg"
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@
     "russian": "какой",
     "emoji": "❓",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w055.svg"
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "russian": "кому",
     "emoji": "👤",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w056.svg"
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "russian": "чей",
     "emoji": "🏷️",
     "category": "Вопросы",
-    "image": "./images/cat-vopros.svg"
+    "image": "./images/w057.svg"
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "russian": "каждый",
     "emoji": "🔄",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w058.svg"
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "russian": "никогда / ничего",
     "emoji": "🚫",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w059.svg"
   },
   {
     "id": 60,
@@ -477,7 +477,7 @@
     "russian": "всё",
     "emoji": "📦",
     "category": "Местоимения",
-    "image": "./images/cat-mesto.svg"
+    "image": "./images/w060.svg"
   },
   {
     "id": 61,
@@ -517,7 +517,7 @@
     "russian": "четыре",
     "emoji": "4️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w065.svg"
   },
   {
     "id": 66,
@@ -525,7 +525,7 @@
     "russian": "пять",
     "emoji": "5️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w066.svg"
   },
   {
     "id": 67,
@@ -533,7 +533,7 @@
     "russian": "шесть",
     "emoji": "6️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w067.svg"
   },
   {
     "id": 68,
@@ -541,7 +541,7 @@
     "russian": "семь",
     "emoji": "7️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w068.svg"
   },
   {
     "id": 69,
@@ -557,7 +557,7 @@
     "russian": "девять",
     "emoji": "9️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w070.svg"
   },
   {
     "id": 71,
@@ -565,7 +565,7 @@
     "russian": "десять",
     "emoji": "🔟",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w071.svg"
   },
   {
     "id": 72,
@@ -573,7 +573,7 @@
     "russian": "двадцать",
     "emoji": "2️⃣0️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w072.svg"
   },
   {
     "id": 73,
@@ -589,7 +589,7 @@
     "russian": "сорок",
     "emoji": "4️⃣0️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w074.svg"
   },
   {
     "id": 75,
@@ -597,7 +597,7 @@
     "russian": "пятьдесят",
     "emoji": "5️⃣0️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w075.svg"
   },
   {
     "id": 76,
@@ -605,7 +605,7 @@
     "russian": "сто",
     "emoji": "💯",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w076.svg"
   },
   {
     "id": 77,
@@ -621,7 +621,7 @@
     "russian": "миллион",
     "emoji": "💎",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w078.svg"
   },
   {
     "id": 79,
@@ -629,7 +629,7 @@
     "russian": "первый",
     "emoji": "🥇",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w079.svg"
   },
   {
     "id": 80,
@@ -637,7 +637,7 @@
     "russian": "последний",
     "emoji": "🏁",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w080.svg"
   },
   {
     "id": 81,
@@ -645,7 +645,7 @@
     "russian": "половина",
     "emoji": "➗",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w081.svg"
   },
   {
     "id": 82,
@@ -661,7 +661,7 @@
     "russian": "один / нечётный",
     "emoji": "1️⃣",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w083.svg"
   },
   {
     "id": 84,
@@ -669,7 +669,7 @@
     "russian": "ещё / больше",
     "emoji": "➕",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w084.svg"
   },
   {
     "id": 85,
@@ -677,7 +677,7 @@
     "russian": "мало",
     "emoji": "📉",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w085.svg"
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@
     "russian": "немного",
     "emoji": "🤏",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w087.svg"
   },
   {
     "id": 88,
@@ -701,7 +701,7 @@
     "russian": "всегда",
     "emoji": "♾️",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w088.svg"
   },
   {
     "id": 89,
@@ -709,7 +709,7 @@
     "russian": "ни один",
     "emoji": "🚫",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w089.svg"
   },
   {
     "id": 90,
@@ -717,7 +717,7 @@
     "russian": "весь",
     "emoji": "🌐",
     "category": "Числа",
-    "image": "./images/cat-chisla.svg"
+    "image": "./images/w090.svg"
   },
   {
     "id": 91,
@@ -725,7 +725,7 @@
     "russian": "сегодня",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w091.svg"
   },
   {
     "id": 92,
@@ -733,7 +733,7 @@
     "russian": "вчера",
     "emoji": "⏪",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w092.svg"
   },
   {
     "id": 93,
@@ -741,7 +741,7 @@
     "russian": "завтра",
     "emoji": "⏩",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w093.svg"
   },
   {
     "id": 94,
@@ -749,7 +749,7 @@
     "russian": "сейчас",
     "emoji": "⏰",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w094.svg"
   },
   {
     "id": 95,
@@ -757,7 +757,7 @@
     "russian": "потом",
     "emoji": "⏭️",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w095.svg"
   },
   {
     "id": 96,
@@ -765,7 +765,7 @@
     "russian": "раньше / до",
     "emoji": "⏮️",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w096.svg"
   },
   {
     "id": 97,
@@ -773,7 +773,7 @@
     "russian": "рано",
     "emoji": "🌄",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w097.svg"
   },
   {
     "id": 98,
@@ -781,7 +781,7 @@
     "russian": "поздно",
     "emoji": "🌃",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w098.svg"
   },
   {
     "id": 99,
@@ -789,7 +789,7 @@
     "russian": "утро",
     "emoji": "🌅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w099.svg"
   },
   {
     "id": 100,
@@ -797,7 +797,7 @@
     "russian": "полдень",
     "emoji": "☀️",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w100.svg"
   },
   {
     "id": 101,
@@ -805,7 +805,7 @@
     "russian": "вечер",
     "emoji": "🌆",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w101.svg"
   },
   {
     "id": 102,
@@ -829,7 +829,7 @@
     "russian": "месяц / луна",
     "emoji": "🌙",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w104.svg"
   },
   {
     "id": 105,
@@ -837,7 +837,7 @@
     "russian": "год",
     "emoji": "🗓️",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w105.svg"
   },
   {
     "id": 106,
@@ -845,7 +845,7 @@
     "russian": "час / часы",
     "emoji": "🕐",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w106.svg"
   },
   {
     "id": 107,
@@ -853,7 +853,7 @@
     "russian": "минута",
     "emoji": "⏱️",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w107.svg"
   },
   {
     "id": 108,
@@ -861,7 +861,7 @@
     "russian": "секунда",
     "emoji": "⏱️",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w108.svg"
   },
   {
     "id": 109,
@@ -877,7 +877,7 @@
     "russian": "вторник",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w110.svg"
   },
   {
     "id": 111,
@@ -885,7 +885,7 @@
     "russian": "среда",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w111.svg"
   },
   {
     "id": 112,
@@ -893,7 +893,7 @@
     "russian": "четверг",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w112.svg"
   },
   {
     "id": 113,
@@ -901,7 +901,7 @@
     "russian": "пятница",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w113.svg"
   },
   {
     "id": 114,
@@ -909,7 +909,7 @@
     "russian": "суббота",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w114.svg"
   },
   {
     "id": 115,
@@ -917,7 +917,7 @@
     "russian": "воскресенье",
     "emoji": "📅",
     "category": "Время",
-    "image": "./images/cat-vremya.svg"
+    "image": "./images/w115.svg"
   },
   {
     "id": 116,
@@ -925,7 +925,7 @@
     "russian": "семья",
     "emoji": "👨‍👩‍👧‍👦",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w116.svg"
   },
   {
     "id": 117,
@@ -933,7 +933,7 @@
     "russian": "мама",
     "emoji": "👩",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w117.svg"
   },
   {
     "id": 118,
@@ -941,7 +941,7 @@
     "russian": "папа",
     "emoji": "👨",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w118.svg"
   },
   {
     "id": 119,
@@ -949,7 +949,7 @@
     "russian": "брат / сестра",
     "emoji": "👫",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w119.svg"
   },
   {
     "id": 120,
@@ -957,7 +957,7 @@
     "russian": "старшая сестра",
     "emoji": "👧",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w120.svg"
   },
   {
     "id": 121,
@@ -965,7 +965,7 @@
     "russian": "старший брат",
     "emoji": "👦",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w121.svg"
   },
   {
     "id": 122,
@@ -973,7 +973,7 @@
     "russian": "ребёнок",
     "emoji": "👶",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w122.svg"
   },
   {
     "id": 123,
@@ -981,7 +981,7 @@
     "russian": "девочка / дочь",
     "emoji": "👧",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w123.svg"
   },
   {
     "id": 124,
@@ -989,7 +989,7 @@
     "russian": "мальчик / сын",
     "emoji": "👦",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w124.svg"
   },
   {
     "id": 125,
@@ -997,7 +997,7 @@
     "russian": "дедушка",
     "emoji": "👴",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w125.svg"
   },
   {
     "id": 126,
@@ -1005,7 +1005,7 @@
     "russian": "бабушка",
     "emoji": "👵",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w126.svg"
   },
   {
     "id": 127,
@@ -1013,7 +1013,7 @@
     "russian": "дядя",
     "emoji": "👨",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w127.svg"
   },
   {
     "id": 128,
@@ -1021,7 +1021,7 @@
     "russian": "тётя",
     "emoji": "👩",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w128.svg"
   },
   {
     "id": 129,
@@ -1029,7 +1029,7 @@
     "russian": "двоюродный брат/сестра",
     "emoji": "🧑",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w129.svg"
   },
   {
     "id": 130,
@@ -1037,7 +1037,7 @@
     "russian": "супруг(а)",
     "emoji": "💑",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w130.svg"
   },
   {
     "id": 131,
@@ -1045,7 +1045,7 @@
     "russian": "муж",
     "emoji": "🤵",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w131.svg"
   },
   {
     "id": 132,
@@ -1053,7 +1053,7 @@
     "russian": "жена",
     "emoji": "👰",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w132.svg"
   },
   {
     "id": 133,
@@ -1061,7 +1061,7 @@
     "russian": "младенец",
     "emoji": "👶",
     "category": "Семья",
-    "image": "./images/cat-semya.svg"
+    "image": "./images/w133.svg"
   },
   {
     "id": 134,
@@ -1085,7 +1085,7 @@
     "russian": "сосед",
     "emoji": "🏘️",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w136.svg"
   },
   {
     "id": 137,
@@ -1093,7 +1093,7 @@
     "russian": "гость",
     "emoji": "🚪",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w137.svg"
   },
   {
     "id": 138,
@@ -1101,7 +1101,7 @@
     "russian": "человек",
     "emoji": "🧑",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w138.svg"
   },
   {
     "id": 139,
@@ -1117,7 +1117,7 @@
     "russian": "женщина",
     "emoji": "👩",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w140.svg"
   },
   {
     "id": 141,
@@ -1125,7 +1125,7 @@
     "russian": "молодой",
     "emoji": "🧑",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w141.svg"
   },
   {
     "id": 142,
@@ -1133,7 +1133,7 @@
     "russian": "пожилой",
     "emoji": "👴",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w142.svg"
   },
   {
     "id": 143,
@@ -1141,7 +1141,7 @@
     "russian": "толпа",
     "emoji": "👥",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w143.svg"
   },
   {
     "id": 144,
@@ -1157,7 +1157,7 @@
     "russian": "турок",
     "emoji": "🇹🇷",
     "category": "Люди",
-    "image": "./images/cat-lyudi.svg"
+    "image": "./images/w145.svg"
   },
   {
     "id": 146,
@@ -1165,7 +1165,7 @@
     "russian": "врач",
     "emoji": "👨‍⚕️",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w146.svg"
   },
   {
     "id": 147,
@@ -1173,7 +1173,7 @@
     "russian": "медсестра",
     "emoji": "👩‍⚕️",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w147.svg"
   },
   {
     "id": 148,
@@ -1189,7 +1189,7 @@
     "russian": "студент",
     "emoji": "👨‍🎓",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w149.svg"
   },
   {
     "id": 150,
@@ -1205,7 +1205,7 @@
     "russian": "пожарный",
     "emoji": "🚒",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w151.svg"
   },
   {
     "id": 152,
@@ -1213,7 +1213,7 @@
     "russian": "повар",
     "emoji": "👨‍🍳",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w152.svg"
   },
   {
     "id": 153,
@@ -1221,7 +1221,7 @@
     "russian": "официант",
     "emoji": "🍽️",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w153.svg"
   },
   {
     "id": 154,
@@ -1229,7 +1229,7 @@
     "russian": "инженер",
     "emoji": "👷",
     "category": "Профессии",
-    "image": "./images/cat-prof.svg"
+    "image": "./images/w154.svg"
   },
   {
     "id": 155,
@@ -1245,7 +1245,7 @@
     "russian": "пить",
     "emoji": "🥤",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w156.svg"
   },
   {
     "id": 157,
@@ -1261,7 +1261,7 @@
     "russian": "чай",
     "emoji": "🍵",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w158.svg"
   },
   {
     "id": 159,
@@ -1269,7 +1269,7 @@
     "russian": "кофе",
     "emoji": "☕",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w159.svg"
   },
   {
     "id": 160,
@@ -1293,7 +1293,7 @@
     "russian": "сыр",
     "emoji": "🧀",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w162.svg"
   },
   {
     "id": 163,
@@ -1301,7 +1301,7 @@
     "russian": "яйцо",
     "emoji": "🥚",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w163.svg"
   },
   {
     "id": 164,
@@ -1309,7 +1309,7 @@
     "russian": "мясо",
     "emoji": "🥩",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w164.svg"
   },
   {
     "id": 165,
@@ -1317,7 +1317,7 @@
     "russian": "курица",
     "emoji": "🍗",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w165.svg"
   },
   {
     "id": 166,
@@ -1325,7 +1325,7 @@
     "russian": "рыба",
     "emoji": "🐟",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w166.svg"
   },
   {
     "id": 167,
@@ -1333,7 +1333,7 @@
     "russian": "овощ",
     "emoji": "🥬",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w167.svg"
   },
   {
     "id": 168,
@@ -1341,7 +1341,7 @@
     "russian": "фрукт",
     "emoji": "🍎",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w168.svg"
   },
   {
     "id": 169,
@@ -1357,7 +1357,7 @@
     "russian": "апельсин",
     "emoji": "🍊",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w170.svg"
   },
   {
     "id": 171,
@@ -1365,7 +1365,7 @@
     "russian": "банан",
     "emoji": "🍌",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w171.svg"
   },
   {
     "id": 172,
@@ -1373,7 +1373,7 @@
     "russian": "виноград",
     "emoji": "🍇",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w172.svg"
   },
   {
     "id": 173,
@@ -1381,7 +1381,7 @@
     "russian": "клубника",
     "emoji": "🍓",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w173.svg"
   },
   {
     "id": 174,
@@ -1389,7 +1389,7 @@
     "russian": "арбуз",
     "emoji": "🍉",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w174.svg"
   },
   {
     "id": 175,
@@ -1397,7 +1397,7 @@
     "russian": "помидор",
     "emoji": "🍅",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w175.svg"
   },
   {
     "id": 176,
@@ -1405,7 +1405,7 @@
     "russian": "огурец",
     "emoji": "🥒",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w176.svg"
   },
   {
     "id": 177,
@@ -1413,7 +1413,7 @@
     "russian": "лук",
     "emoji": "🧅",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w177.svg"
   },
   {
     "id": 178,
@@ -1421,7 +1421,7 @@
     "russian": "чеснок",
     "emoji": "🧄",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w178.svg"
   },
   {
     "id": 179,
@@ -1437,7 +1437,7 @@
     "russian": "рис",
     "emoji": "🍚",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w180.svg"
   },
   {
     "id": 181,
@@ -1453,7 +1453,7 @@
     "russian": "пицца",
     "emoji": "🍕",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w182.svg"
   },
   {
     "id": 183,
@@ -1461,7 +1461,7 @@
     "russian": "гамбургер",
     "emoji": "🍔",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w183.svg"
   },
   {
     "id": 184,
@@ -1469,7 +1469,7 @@
     "russian": "дёнер",
     "emoji": "🥙",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w184.svg"
   },
   {
     "id": 185,
@@ -1477,7 +1477,7 @@
     "russian": "кебаб",
     "emoji": "🍢",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w185.svg"
   },
   {
     "id": 186,
@@ -1485,7 +1485,7 @@
     "russian": "лахмаджун",
     "emoji": "🫓",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w186.svg"
   },
   {
     "id": 187,
@@ -1493,7 +1493,7 @@
     "russian": "бёрек",
     "emoji": "🥐",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w187.svg"
   },
   {
     "id": 188,
@@ -1501,7 +1501,7 @@
     "russian": "баклава",
     "emoji": "🍰",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w188.svg"
   },
   {
     "id": 189,
@@ -1509,7 +1509,7 @@
     "russian": "суп",
     "emoji": "🍲",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w189.svg"
   },
   {
     "id": 190,
@@ -1517,7 +1517,7 @@
     "russian": "салат",
     "emoji": "🥗",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w190.svg"
   },
   {
     "id": 191,
@@ -1525,7 +1525,7 @@
     "russian": "сладкое / десерт",
     "emoji": "🍰",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w191.svg"
   },
   {
     "id": 192,
@@ -1533,7 +1533,7 @@
     "russian": "мороженое",
     "emoji": "🍦",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w192.svg"
   },
   {
     "id": 193,
@@ -1541,7 +1541,7 @@
     "russian": "шоколад",
     "emoji": "🍫",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w193.svg"
   },
   {
     "id": 194,
@@ -1549,7 +1549,7 @@
     "russian": "сахар / конфета",
     "emoji": "🍬",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w194.svg"
   },
   {
     "id": 195,
@@ -1557,7 +1557,7 @@
     "russian": "соль",
     "emoji": "🧂",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w195.svg"
   },
   {
     "id": 196,
@@ -1565,7 +1565,7 @@
     "russian": "перец",
     "emoji": "🌶️",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w196.svg"
   },
   {
     "id": 197,
@@ -1573,7 +1573,7 @@
     "russian": "оливковое масло",
     "emoji": "🫒",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w197.svg"
   },
   {
     "id": 198,
@@ -1581,7 +1581,7 @@
     "russian": "лимон",
     "emoji": "🍋",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w198.svg"
   },
   {
     "id": 199,
@@ -1589,7 +1589,7 @@
     "russian": "айран",
     "emoji": "🥛",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w199.svg"
   },
   {
     "id": 200,
@@ -1613,7 +1613,7 @@
     "russian": "вино",
     "emoji": "🍷",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w202.svg"
   },
   {
     "id": 203,
@@ -1621,7 +1621,7 @@
     "russian": "раки",
     "emoji": "🥃",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w203.svg"
   },
   {
     "id": 204,
@@ -1629,7 +1629,7 @@
     "russian": "завтрак",
     "emoji": "🥐",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w204.svg"
   },
   {
     "id": 205,
@@ -1637,7 +1637,7 @@
     "russian": "обед",
     "emoji": "🍱",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w205.svg"
   },
   {
     "id": 206,
@@ -1645,7 +1645,7 @@
     "russian": "ужин",
     "emoji": "🍽️",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w206.svg"
   },
   {
     "id": 207,
@@ -1653,7 +1653,7 @@
     "russian": "голодный",
     "emoji": "😋",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w207.svg"
   },
   {
     "id": 208,
@@ -1661,7 +1661,7 @@
     "russian": "сытый",
     "emoji": "😌",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w208.svg"
   },
   {
     "id": 209,
@@ -1669,7 +1669,7 @@
     "russian": "вкусный",
     "emoji": "😋",
     "category": "Еда",
-    "image": "./images/cat-eda.svg"
+    "image": "./images/w209.svg"
   },
   {
     "id": 210,
@@ -1685,7 +1685,7 @@
     "russian": "комната",
     "emoji": "🚪",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w211.svg"
   },
   {
     "id": 212,
@@ -1701,7 +1701,7 @@
     "russian": "ванная",
     "emoji": "🛁",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w213.svg"
   },
   {
     "id": 214,
@@ -1709,7 +1709,7 @@
     "russian": "спальня",
     "emoji": "🛏️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w214.svg"
   },
   {
     "id": 215,
@@ -1717,7 +1717,7 @@
     "russian": "гостиная",
     "emoji": "🛋️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w215.svg"
   },
   {
     "id": 216,
@@ -1725,7 +1725,7 @@
     "russian": "балкон",
     "emoji": "🏡",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w216.svg"
   },
   {
     "id": 217,
@@ -1741,7 +1741,7 @@
     "russian": "окно",
     "emoji": "🪟",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w218.svg"
   },
   {
     "id": 219,
@@ -1749,7 +1749,7 @@
     "russian": "стена",
     "emoji": "🧱",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w219.svg"
   },
   {
     "id": 220,
@@ -1757,7 +1757,7 @@
     "russian": "пол",
     "emoji": "⬜",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w220.svg"
   },
   {
     "id": 221,
@@ -1765,7 +1765,7 @@
     "russian": "потолок",
     "emoji": "⬆️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w221.svg"
   },
   {
     "id": 222,
@@ -1773,7 +1773,7 @@
     "russian": "лестница",
     "emoji": "🪜",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w222.svg"
   },
   {
     "id": 223,
@@ -1781,7 +1781,7 @@
     "russian": "лифт",
     "emoji": "🛗",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w223.svg"
   },
   {
     "id": 224,
@@ -1789,7 +1789,7 @@
     "russian": "кровать",
     "emoji": "🛏️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w224.svg"
   },
   {
     "id": 225,
@@ -1797,7 +1797,7 @@
     "russian": "стол",
     "emoji": "🪑",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w225.svg"
   },
   {
     "id": 226,
@@ -1805,7 +1805,7 @@
     "russian": "стул",
     "emoji": "🪑",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w226.svg"
   },
   {
     "id": 227,
@@ -1813,7 +1813,7 @@
     "russian": "кресло / диван",
     "emoji": "🛋️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w227.svg"
   },
   {
     "id": 228,
@@ -1821,7 +1821,7 @@
     "russian": "шкаф",
     "emoji": "🗄️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w228.svg"
   },
   {
     "id": 229,
@@ -1829,7 +1829,7 @@
     "russian": "зеркало",
     "emoji": "🪞",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w229.svg"
   },
   {
     "id": 230,
@@ -1837,7 +1837,7 @@
     "russian": "лампа",
     "emoji": "💡",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w230.svg"
   },
   {
     "id": 231,
@@ -1845,7 +1845,7 @@
     "russian": "телевизор",
     "emoji": "📺",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w231.svg"
   },
   {
     "id": 232,
@@ -1853,7 +1853,7 @@
     "russian": "телефон",
     "emoji": "📱",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w232.svg"
   },
   {
     "id": 233,
@@ -1861,7 +1861,7 @@
     "russian": "компьютер",
     "emoji": "💻",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w233.svg"
   },
   {
     "id": 234,
@@ -1869,7 +1869,7 @@
     "russian": "холодильник",
     "emoji": "🧊",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w234.svg"
   },
   {
     "id": 235,
@@ -1877,7 +1877,7 @@
     "russian": "стиральная машина",
     "emoji": "🧺",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w235.svg"
   },
   {
     "id": 236,
@@ -1885,7 +1885,7 @@
     "russian": "духовка",
     "emoji": "🔥",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w236.svg"
   },
   {
     "id": 237,
@@ -1893,7 +1893,7 @@
     "russian": "туалет",
     "emoji": "🚽",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w237.svg"
   },
   {
     "id": 238,
@@ -1901,7 +1901,7 @@
     "russian": "душ",
     "emoji": "🚿",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w238.svg"
   },
   {
     "id": 239,
@@ -1909,7 +1909,7 @@
     "russian": "полотенце",
     "emoji": "🛁",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w239.svg"
   },
   {
     "id": 240,
@@ -1917,7 +1917,7 @@
     "russian": "подушка",
     "emoji": "🛏️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w240.svg"
   },
   {
     "id": 241,
@@ -1925,7 +1925,7 @@
     "russian": "одеяло",
     "emoji": "🛏️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w241.svg"
   },
   {
     "id": 242,
@@ -1933,7 +1933,7 @@
     "russian": "мусор",
     "emoji": "🗑️",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w242.svg"
   },
   {
     "id": 243,
@@ -1941,7 +1941,7 @@
     "russian": "чистый",
     "emoji": "✨",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w243.svg"
   },
   {
     "id": 244,
@@ -1949,7 +1949,7 @@
     "russian": "грязный",
     "emoji": "💩",
     "category": "Дом",
-    "image": "./images/cat-dom.svg"
+    "image": "./images/w244.svg"
   },
   {
     "id": 245,
@@ -1957,7 +1957,7 @@
     "russian": "большой",
     "emoji": "📏",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w245.svg"
   },
   {
     "id": 246,
@@ -1965,7 +1965,7 @@
     "russian": "маленький",
     "emoji": "🐜",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w246.svg"
   },
   {
     "id": 247,
@@ -1973,7 +1973,7 @@
     "russian": "новый",
     "emoji": "🆕",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w247.svg"
   },
   {
     "id": 248,
@@ -1981,7 +1981,7 @@
     "russian": "старый",
     "emoji": "🏚️",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w248.svg"
   },
   {
     "id": 249,
@@ -1989,7 +1989,7 @@
     "russian": "красивый",
     "emoji": "✨",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w249.svg"
   },
   {
     "id": 250,
@@ -1997,7 +1997,7 @@
     "russian": "город",
     "emoji": "🏙️",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w250.svg"
   },
   {
     "id": 251,
@@ -2005,7 +2005,7 @@
     "russian": "улица",
     "emoji": "🛣️",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w251.svg"
   },
   {
     "id": 252,
@@ -2013,7 +2013,7 @@
     "russian": "проспект",
     "emoji": "🏙️",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w252.svg"
   },
   {
     "id": 253,
@@ -2021,7 +2021,7 @@
     "russian": "площадь",
     "emoji": "🏛️",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w253.svg"
   },
   {
     "id": 254,
@@ -2037,7 +2037,7 @@
     "russian": "парк",
     "emoji": "🌳",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w255.svg"
   },
   {
     "id": 256,
@@ -2045,7 +2045,7 @@
     "russian": "мечеть",
     "emoji": "🕌",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w256.svg"
   },
   {
     "id": 257,
@@ -2053,7 +2053,7 @@
     "russian": "церковь",
     "emoji": "⛪",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w257.svg"
   },
   {
     "id": 258,
@@ -2061,7 +2061,7 @@
     "russian": "школа",
     "emoji": "🏫",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w258.svg"
   },
   {
     "id": 259,
@@ -2069,7 +2069,7 @@
     "russian": "больница",
     "emoji": "🏥",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w259.svg"
   },
   {
     "id": 260,
@@ -2077,7 +2077,7 @@
     "russian": "аптека",
     "emoji": "💊",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w260.svg"
   },
   {
     "id": 261,
@@ -2085,7 +2085,7 @@
     "russian": "магазин",
     "emoji": "🏪",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w261.svg"
   },
   {
     "id": 262,
@@ -2093,7 +2093,7 @@
     "russian": "супермаркет",
     "emoji": "🛒",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w262.svg"
   },
   {
     "id": 263,
@@ -2101,7 +2101,7 @@
     "russian": "ресторан",
     "emoji": "🍽️",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w263.svg"
   },
   {
     "id": 264,
@@ -2109,7 +2109,7 @@
     "russian": "кафе",
     "emoji": "☕",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w264.svg"
   },
   {
     "id": 265,
@@ -2117,7 +2117,7 @@
     "russian": "банк",
     "emoji": "🏦",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w265.svg"
   },
   {
     "id": 266,
@@ -2125,7 +2125,7 @@
     "russian": "почта",
     "emoji": "📮",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w266.svg"
   },
   {
     "id": 267,
@@ -2133,7 +2133,7 @@
     "russian": "отель",
     "emoji": "🏨",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w267.svg"
   },
   {
     "id": 268,
@@ -2141,7 +2141,7 @@
     "russian": "аэропорт",
     "emoji": "✈️",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w268.svg"
   },
   {
     "id": 269,
@@ -2149,7 +2149,7 @@
     "russian": "станция",
     "emoji": "🚉",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w269.svg"
   },
   {
     "id": 270,
@@ -2157,7 +2157,7 @@
     "russian": "остановка",
     "emoji": "🚏",
     "category": "Город",
-    "image": "./images/cat-gorod.svg"
+    "image": "./images/w270.svg"
   },
   {
     "id": 271,
@@ -2173,7 +2173,7 @@
     "russian": "автобус",
     "emoji": "🚌",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w272.svg"
   },
   {
     "id": 273,
@@ -2181,7 +2181,7 @@
     "russian": "метро",
     "emoji": "🚇",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w273.svg"
   },
   {
     "id": 274,
@@ -2197,7 +2197,7 @@
     "russian": "такси",
     "emoji": "🚕",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w275.svg"
   },
   {
     "id": 276,
@@ -2205,7 +2205,7 @@
     "russian": "велосипед",
     "emoji": "🚲",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w276.svg"
   },
   {
     "id": 277,
@@ -2213,7 +2213,7 @@
     "russian": "мотоцикл",
     "emoji": "🏍️",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w277.svg"
   },
   {
     "id": 278,
@@ -2221,7 +2221,7 @@
     "russian": "самолёт",
     "emoji": "✈️",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w278.svg"
   },
   {
     "id": 279,
@@ -2229,7 +2229,7 @@
     "russian": "корабль",
     "emoji": "🚢",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w279.svg"
   },
   {
     "id": 280,
@@ -2237,7 +2237,7 @@
     "russian": "паром",
     "emoji": "⛴️",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w280.svg"
   },
   {
     "id": 281,
@@ -2245,7 +2245,7 @@
     "russian": "маршрутка",
     "emoji": "🚐",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w281.svg"
   },
   {
     "id": 282,
@@ -2253,7 +2253,7 @@
     "russian": "пробка",
     "emoji": "🚦",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w282.svg"
   },
   {
     "id": 283,
@@ -2261,7 +2261,7 @@
     "russian": "дорога",
     "emoji": "🛣️",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w283.svg"
   },
   {
     "id": 284,
@@ -2277,7 +2277,7 @@
     "russian": "билет",
     "emoji": "🎫",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w285.svg"
   },
   {
     "id": 286,
@@ -2285,7 +2285,7 @@
     "russian": "паспорт",
     "emoji": "🛂",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w286.svg"
   },
   {
     "id": 287,
@@ -2293,7 +2293,7 @@
     "russian": "виза",
     "emoji": "📋",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w287.svg"
   },
   {
     "id": 288,
@@ -2301,7 +2301,7 @@
     "russian": "багаж",
     "emoji": "🧳",
     "category": "Транспорт",
-    "image": "./images/cat-transport.svg"
+    "image": "./images/w288.svg"
   },
   {
     "id": 289,
@@ -2309,7 +2309,7 @@
     "russian": "право / правый",
     "emoji": "➡️",
     "category": "Направления",
-    "image": "./images/cat-nav.svg"
+    "image": "./images/w289.svg"
   },
   {
     "id": 290,
@@ -2317,7 +2317,7 @@
     "russian": "лево / левый",
     "emoji": "⬅️",
     "category": "Направления",
-    "image": "./images/cat-nav.svg"
+    "image": "./images/w290.svg"
   },
   {
     "id": 291,
@@ -2325,7 +2325,7 @@
     "russian": "прямо",
     "emoji": "⬆️",
     "category": "Направления",
-    "image": "./images/cat-nav.svg"
+    "image": "./images/w291.svg"
   },
   {
     "id": 292,
@@ -2333,7 +2333,7 @@
     "russian": "близко",
     "emoji": "📍",
     "category": "Направления",
-    "image": "./images/cat-nav.svg"
+    "image": "./images/w292.svg"
   },
   {
     "id": 293,
@@ -2341,7 +2341,7 @@
     "russian": "далеко",
     "emoji": "🔭",
     "category": "Направления",
-    "image": "./images/cat-nav.svg"
+    "image": "./images/w293.svg"
   },
   {
     "id": 294,
@@ -2349,7 +2349,7 @@
     "russian": "здесь",
     "emoji": "📍",
     "category": "Направления",
-    "image": "./images/cat-nav.svg"
+    "image": "./images/w294.svg"
   },
   {
     "id": 295,
@@ -2381,7 +2381,7 @@
     "russian": "дорогой",
     "emoji": "💎",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w298.svg"
   },
   {
     "id": 299,
@@ -2437,7 +2437,7 @@
     "russian": "наличные",
     "emoji": "💵",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w305.svg"
   },
   {
     "id": 306,
@@ -2445,7 +2445,7 @@
     "russian": "чек",
     "emoji": "🧾",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w306.svg"
   },
   {
     "id": 307,
@@ -2461,7 +2461,7 @@
     "russian": "шопинг",
     "emoji": "🛒",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w308.svg"
   },
   {
     "id": 309,
@@ -2485,7 +2485,7 @@
     "russian": "бесплатно",
     "emoji": "🆓",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w311.svg"
   },
   {
     "id": 312,
@@ -2493,7 +2493,7 @@
     "russian": "аренда",
     "emoji": "🏠",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w312.svg"
   },
   {
     "id": 313,
@@ -2509,7 +2509,7 @@
     "russian": "рынок / базар",
     "emoji": "🏪",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w314.svg"
   },
   {
     "id": 315,
@@ -2517,7 +2517,7 @@
     "russian": "кассир",
     "emoji": "🧑‍💼",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w315.svg"
   },
   {
     "id": 316,
@@ -2525,7 +2525,7 @@
     "russian": "клиент",
     "emoji": "🧑",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w316.svg"
   },
   {
     "id": 317,
@@ -2533,7 +2533,7 @@
     "russian": "примерять",
     "emoji": "👗",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w317.svg"
   },
   {
     "id": 318,
@@ -2549,7 +2549,7 @@
     "russian": "цвет",
     "emoji": "🎨",
     "category": "Покупки",
-    "image": "./images/cat-shop.svg"
+    "image": "./images/w319.svg"
   },
   {
     "id": 320,
@@ -2557,7 +2557,7 @@
     "russian": "красный",
     "emoji": "🔴",
     "category": "Цвета",
-    "image": "./images/cat-color.svg"
+    "image": "./images/w320.svg"
   },
   {
     "id": 321,
@@ -2565,7 +2565,7 @@
     "russian": "синий",
     "emoji": "🔵",
     "category": "Цвета",
-    "image": "./images/cat-color.svg"
+    "image": "./images/w321.svg"
   },
   {
     "id": 322,
@@ -2573,7 +2573,7 @@
     "russian": "зелёный",
     "emoji": "🟢",
     "category": "Цвета",
-    "image": "./images/cat-color.svg"
+    "image": "./images/w322.svg"
   },
   {
     "id": 323,
@@ -2597,7 +2597,7 @@
     "russian": "здоровье",
     "emoji": "❤️‍🩹",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w325.svg"
   },
   {
     "id": 326,
@@ -2605,7 +2605,7 @@
     "russian": "больной",
     "emoji": "🤒",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w326.svg"
   },
   {
     "id": 327,
@@ -2613,7 +2613,7 @@
     "russian": "боль",
     "emoji": "😣",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w327.svg"
   },
   {
     "id": 328,
@@ -2621,7 +2621,7 @@
     "russian": "головная боль",
     "emoji": "🤕",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w328.svg"
   },
   {
     "id": 329,
@@ -2629,7 +2629,7 @@
     "russian": "температура / огонь",
     "emoji": "🌡️",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w329.svg"
   },
   {
     "id": 330,
@@ -2637,7 +2637,7 @@
     "russian": "кашель",
     "emoji": "😷",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w330.svg"
   },
   {
     "id": 331,
@@ -2653,7 +2653,7 @@
     "russian": "рецепт",
     "emoji": "📋",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w332.svg"
   },
   {
     "id": 333,
@@ -2661,7 +2661,7 @@
     "russian": "запись / встреча",
     "emoji": "📅",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w333.svg"
   },
   {
     "id": 334,
@@ -2669,7 +2669,7 @@
     "russian": "срочно / неотложка",
     "emoji": "🚨",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w334.svg"
   },
   {
     "id": 335,
@@ -2677,7 +2677,7 @@
     "russian": "скорая",
     "emoji": "🚑",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w335.svg"
   },
   {
     "id": 336,
@@ -2685,7 +2685,7 @@
     "russian": "зуб",
     "emoji": "🦷",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w336.svg"
   },
   {
     "id": 337,
@@ -2693,7 +2693,7 @@
     "russian": "глаз",
     "emoji": "👁️",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w337.svg"
   },
   {
     "id": 338,
@@ -2709,7 +2709,7 @@
     "russian": "нос",
     "emoji": "👃",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w339.svg"
   },
   {
     "id": 340,
@@ -2717,7 +2717,7 @@
     "russian": "рот",
     "emoji": "👄",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w340.svg"
   },
   {
     "id": 341,
@@ -2725,7 +2725,7 @@
     "russian": "рука",
     "emoji": "✋",
     "category": "Тело",
-    "image": "./images/cat-body.svg"
+    "image": "./images/w341.svg"
   },
   {
     "id": 342,
@@ -2749,7 +2749,7 @@
     "russian": "сердце",
     "emoji": "❤️",
     "category": "Тело",
-    "image": "./images/cat-body.svg"
+    "image": "./images/w344.svg"
   },
   {
     "id": 345,
@@ -2757,7 +2757,7 @@
     "russian": "желудок",
     "emoji": "🫃",
     "category": "Тело",
-    "image": "./images/cat-body.svg"
+    "image": "./images/w345.svg"
   },
   {
     "id": 346,
@@ -2765,7 +2765,7 @@
     "russian": "волосы",
     "emoji": "💇",
     "category": "Тело",
-    "image": "./images/cat-body.svg"
+    "image": "./images/w346.svg"
   },
   {
     "id": 347,
@@ -2773,7 +2773,7 @@
     "russian": "лицо",
     "emoji": "😊",
     "category": "Тело",
-    "image": "./images/cat-body.svg"
+    "image": "./images/w347.svg"
   },
   {
     "id": 348,
@@ -2789,7 +2789,7 @@
     "russian": "спать",
     "emoji": "😴",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w349.svg"
   },
   {
     "id": 350,
@@ -2797,7 +2797,7 @@
     "russian": "усталый",
     "emoji": "😫",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w350.svg"
   },
   {
     "id": 351,
@@ -2805,7 +2805,7 @@
     "russian": "отдыхать",
     "emoji": "🛋️",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w351.svg"
   },
   {
     "id": 352,
@@ -2813,7 +2813,7 @@
     "russian": "спорт",
     "emoji": "🏃",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w352.svg"
   },
   {
     "id": 353,
@@ -2821,7 +2821,7 @@
     "russian": "бегать",
     "emoji": "🏃",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w353.svg"
   },
   {
     "id": 354,
@@ -2829,7 +2829,7 @@
     "russian": "плавать",
     "emoji": "🏊",
     "category": "Здоровье",
-    "image": "./images/cat-health.svg"
+    "image": "./images/w354.svg"
   },
   {
     "id": 355,
@@ -2837,7 +2837,7 @@
     "russian": "счастливый",
     "emoji": "😊",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w355.svg"
   },
   {
     "id": 356,
@@ -2853,7 +2853,7 @@
     "russian": "злой",
     "emoji": "😠",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w357.svg"
   },
   {
     "id": 358,
@@ -2861,7 +2861,7 @@
     "russian": "бояться",
     "emoji": "😨",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w358.svg"
   },
   {
     "id": 359,
@@ -2869,7 +2869,7 @@
     "russian": "любить",
     "emoji": "❤️",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w359.svg"
   },
   {
     "id": 360,
@@ -2877,7 +2877,7 @@
     "russian": "ненависть",
     "emoji": "💔",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w360.svg"
   },
   {
     "id": 361,
@@ -2885,7 +2885,7 @@
     "russian": "смеяться",
     "emoji": "😂",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w361.svg"
   },
   {
     "id": 362,
@@ -2893,7 +2893,7 @@
     "russian": "плакать",
     "emoji": "😭",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w362.svg"
   },
   {
     "id": 363,
@@ -2901,7 +2901,7 @@
     "russian": "удивляться",
     "emoji": "😲",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w363.svg"
   },
   {
     "id": 364,
@@ -2909,7 +2909,7 @@
     "russian": "скучать",
     "emoji": "😑",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w364.svg"
   },
   {
     "id": 365,
@@ -2917,7 +2917,7 @@
     "russian": "взволнованный",
     "emoji": "🤩",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w365.svg"
   },
   {
     "id": 366,
@@ -2925,7 +2925,7 @@
     "russian": "обеспокоенный",
     "emoji": "😟",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w366.svg"
   },
   {
     "id": 367,
@@ -2933,7 +2933,7 @@
     "russian": "спокойный / удобный",
     "emoji": "😌",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w367.svg"
   },
   {
     "id": 368,
@@ -2941,7 +2941,7 @@
     "russian": "в стрессе",
     "emoji": "😰",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w368.svg"
   },
   {
     "id": 369,
@@ -2949,7 +2949,7 @@
     "russian": "гордый",
     "emoji": "😤",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w369.svg"
   },
   {
     "id": 370,
@@ -2957,7 +2957,7 @@
     "russian": "застенчивый",
     "emoji": "😳",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w370.svg"
   },
   {
     "id": 371,
@@ -2965,7 +2965,7 @@
     "russian": "смелый",
     "emoji": "💪",
     "category": "Эмоции",
-    "image": "./images/cat-emotion.svg"
+    "image": "./images/w371.svg"
   },
   {
     "id": 372,
@@ -2973,7 +2973,7 @@
     "russian": "умный",
     "emoji": "🧠",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w372.svg"
   },
   {
     "id": 373,
@@ -2981,7 +2981,7 @@
     "russian": "глупый",
     "emoji": "🤪",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w373.svg"
   },
   {
     "id": 374,
@@ -2989,7 +2989,7 @@
     "russian": "смешной",
     "emoji": "😄",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w374.svg"
   },
   {
     "id": 375,
@@ -2997,7 +2997,7 @@
     "russian": "серьёзный",
     "emoji": "😐",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w375.svg"
   },
   {
     "id": 376,
@@ -3005,7 +3005,7 @@
     "russian": "лёгкий",
     "emoji": "👍",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w376.svg"
   },
   {
     "id": 377,
@@ -3013,7 +3013,7 @@
     "russian": "трудный",
     "emoji": "💪",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w377.svg"
   },
   {
     "id": 378,
@@ -3021,7 +3021,7 @@
     "russian": "быстрый",
     "emoji": "⚡",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w378.svg"
   },
   {
     "id": 379,
@@ -3029,7 +3029,7 @@
     "russian": "медленный",
     "emoji": "🐢",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w379.svg"
   },
   {
     "id": 380,
@@ -3037,7 +3037,7 @@
     "russian": "горячий / тёплый",
     "emoji": "🔥",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w380.svg"
   },
   {
     "id": 381,
@@ -3045,7 +3045,7 @@
     "russian": "холодный",
     "emoji": "❄️",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w381.svg"
   },
   {
     "id": 382,
@@ -3053,7 +3053,7 @@
     "russian": "открытый / светлый",
     "emoji": "☀️",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w382.svg"
   },
   {
     "id": 383,
@@ -3061,7 +3061,7 @@
     "russian": "закрытый / тёмный",
     "emoji": "🌑",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w383.svg"
   },
   {
     "id": 384,
@@ -3069,7 +3069,7 @@
     "russian": "правильный",
     "emoji": "✅",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w384.svg"
   },
   {
     "id": 385,
@@ -3077,7 +3077,7 @@
     "russian": "неправильный",
     "emoji": "❌",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w385.svg"
   },
   {
     "id": 386,
@@ -3085,7 +3085,7 @@
     "russian": "важный",
     "emoji": "⭐",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w386.svg"
   },
   {
     "id": 387,
@@ -3093,7 +3093,7 @@
     "russian": "странный",
     "emoji": "🤨",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w387.svg"
   },
   {
     "id": 388,
@@ -3101,7 +3101,7 @@
     "russian": "нормальный",
     "emoji": "👌",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w388.svg"
   },
   {
     "id": 389,
@@ -3109,7 +3109,7 @@
     "russian": "разный",
     "emoji": "🔀",
     "category": "Прилагательные",
-    "image": "./images/cat-adj.svg"
+    "image": "./images/w389.svg"
   },
   {
     "id": 390,
@@ -3117,7 +3117,7 @@
     "russian": "идти / ехать",
     "emoji": "🚶",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w390.svg"
   },
   {
     "id": 391,
@@ -3125,7 +3125,7 @@
     "russian": "приходить / приезжать",
     "emoji": "🏃",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w391.svg"
   },
   {
     "id": 392,
@@ -3133,7 +3133,7 @@
     "russian": "делать",
     "emoji": "🔨",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w392.svg"
   },
   {
     "id": 393,
@@ -3141,7 +3141,7 @@
     "russian": "быть / становиться",
     "emoji": "✨",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w393.svg"
   },
   {
     "id": 394,
@@ -3149,7 +3149,7 @@
     "russian": "брать / получать",
     "emoji": "🤲",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w394.svg"
   },
   {
     "id": 395,
@@ -3157,7 +3157,7 @@
     "russian": "давать",
     "emoji": "🎁",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w395.svg"
   },
   {
     "id": 396,
@@ -3165,7 +3165,7 @@
     "russian": "говорить",
     "emoji": "🗣️",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w396.svg"
   },
   {
     "id": 397,
@@ -3173,7 +3173,7 @@
     "russian": "разговаривать",
     "emoji": "💬",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w397.svg"
   },
   {
     "id": 398,
@@ -3181,7 +3181,7 @@
     "russian": "слушать",
     "emoji": "👂",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w398.svg"
   },
   {
     "id": 399,
@@ -3189,7 +3189,7 @@
     "russian": "слышать",
     "emoji": "👂",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w399.svg"
   },
   {
     "id": 400,
@@ -3197,7 +3197,7 @@
     "russian": "видеть",
     "emoji": "👀",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w400.svg"
   },
   {
     "id": 401,
@@ -3205,7 +3205,7 @@
     "russian": "смотреть",
     "emoji": "👁️",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w401.svg"
   },
   {
     "id": 402,
@@ -3213,7 +3213,7 @@
     "russian": "знать",
     "emoji": "🧠",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w402.svg"
   },
   {
     "id": 403,
@@ -3221,7 +3221,7 @@
     "russian": "понимать",
     "emoji": "💡",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w403.svg"
   },
   {
     "id": 404,
@@ -3229,7 +3229,7 @@
     "russian": "думать",
     "emoji": "🤔",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w404.svg"
   },
   {
     "id": 405,
@@ -3237,7 +3237,7 @@
     "russian": "помнить",
     "emoji": "🧠",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w405.svg"
   },
   {
     "id": 406,
@@ -3245,7 +3245,7 @@
     "russian": "забывать",
     "emoji": "🤷",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w406.svg"
   },
   {
     "id": 407,
@@ -3253,7 +3253,7 @@
     "russian": "читать / учиться",
     "emoji": "📖",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w407.svg"
   },
   {
     "id": 408,
@@ -3261,7 +3261,7 @@
     "russian": "писать",
     "emoji": "✍️",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w408.svg"
   },
   {
     "id": 409,
@@ -3269,7 +3269,7 @@
     "russian": "учить / изучать",
     "emoji": "📚",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w409.svg"
   },
   {
     "id": 410,
@@ -3277,7 +3277,7 @@
     "russian": "преподавать",
     "emoji": "👨‍🏫",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w410.svg"
   },
   {
     "id": 411,
@@ -3285,7 +3285,7 @@
     "russian": "работать / учиться",
     "emoji": "💼",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w411.svg"
   },
   {
     "id": 412,
@@ -3293,7 +3293,7 @@
     "russian": "начинать",
     "emoji": "▶️",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w412.svg"
   },
   {
     "id": 413,
@@ -3301,7 +3301,7 @@
     "russian": "заканчивать",
     "emoji": "🏁",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w413.svg"
   },
   {
     "id": 414,
@@ -3309,7 +3309,7 @@
     "russian": "ждать",
     "emoji": "⏳",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w414.svg"
   },
   {
     "id": 415,
@@ -3317,7 +3317,7 @@
     "russian": "останавливаться / стоять",
     "emoji": "🛑",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w415.svg"
   },
   {
     "id": 416,
@@ -3325,7 +3325,7 @@
     "russian": "сидеть",
     "emoji": "🪑",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w416.svg"
   },
   {
     "id": 417,
@@ -3333,7 +3333,7 @@
     "russian": "вставать",
     "emoji": "🧍",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w417.svg"
   },
   {
     "id": 418,
@@ -3341,7 +3341,7 @@
     "russian": "ходить пешком",
     "emoji": "🚶",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w418.svg"
   },
   {
     "id": 419,
@@ -3349,7 +3349,7 @@
     "russian": "открывать",
     "emoji": "🔓",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w419.svg"
   },
   {
     "id": 420,
@@ -3357,7 +3357,7 @@
     "russian": "закрывать",
     "emoji": "🔒",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w420.svg"
   },
   {
     "id": 421,
@@ -3365,7 +3365,7 @@
     "russian": "входить",
     "emoji": "🚪",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w421.svg"
   },
   {
     "id": 422,
@@ -3373,7 +3373,7 @@
     "russian": "выходить",
     "emoji": "🚪",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w422.svg"
   },
   {
     "id": 423,
@@ -3381,7 +3381,7 @@
     "russian": "использовать",
     "emoji": "🔧",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w423.svg"
   },
   {
     "id": 424,
@@ -3389,7 +3389,7 @@
     "russian": "искать / звонить",
     "emoji": "🔍",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w424.svg"
   },
   {
     "id": 425,
@@ -3397,7 +3397,7 @@
     "russian": "находить",
     "emoji": "🎯",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w425.svg"
   },
   {
     "id": 426,
@@ -3405,7 +3405,7 @@
     "russian": "терять",
     "emoji": "😢",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w426.svg"
   },
   {
     "id": 427,
@@ -3413,7 +3413,7 @@
     "russian": "приносить",
     "emoji": "📦",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w427.svg"
   },
   {
     "id": 428,
@@ -3421,7 +3421,7 @@
     "russian": "увозить / брать с собой",
     "emoji": "🧳",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w428.svg"
   },
   {
     "id": 429,
@@ -3429,7 +3429,7 @@
     "russian": "нести / перевозить",
     "emoji": "📦",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w429.svg"
   },
   {
     "id": 430,
@@ -3437,7 +3437,7 @@
     "russian": "готовить (еда)",
     "emoji": "👨‍🍳",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w430.svg"
   },
   {
     "id": 431,
@@ -3445,7 +3445,7 @@
     "russian": "мыть",
     "emoji": "🧼",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w431.svg"
   },
   {
     "id": 432,
@@ -3453,7 +3453,7 @@
     "russian": "убирать / чистить",
     "emoji": "🧹",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w432.svg"
   },
   {
     "id": 433,
@@ -3461,7 +3461,7 @@
     "russian": "одеваться",
     "emoji": "👔",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w433.svg"
   },
   {
     "id": 434,
@@ -3469,7 +3469,7 @@
     "russian": "раздеваться",
     "emoji": "👕",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w434.svg"
   },
   {
     "id": 435,
@@ -3477,7 +3477,7 @@
     "russian": "спрашивать",
     "emoji": "❓",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w435.svg"
   },
   {
     "id": 436,
@@ -3485,7 +3485,7 @@
     "russian": "отвечать",
     "emoji": "💬",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w436.svg"
   },
   {
     "id": 437,
@@ -3493,7 +3493,7 @@
     "russian": "хотеть",
     "emoji": "🙏",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w437.svg"
   },
   {
     "id": 438,
@@ -3501,7 +3501,7 @@
     "russian": "не хотеть",
     "emoji": "🙅",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w438.svg"
   },
   {
     "id": 439,
@@ -3509,7 +3509,7 @@
     "russian": "мне нужно",
     "emoji": "🤲",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w439.svg"
   },
   {
     "id": 440,
@@ -3517,7 +3517,7 @@
     "russian": "нужно / надо",
     "emoji": "📌",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w440.svg"
   },
   {
     "id": 441,
@@ -3525,7 +3525,7 @@
     "russian": "я могу",
     "emoji": "💪",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w441.svg"
   },
   {
     "id": 442,
@@ -3533,7 +3533,7 @@
     "russian": "я не могу",
     "emoji": "🚫",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w442.svg"
   },
   {
     "id": 443,
@@ -3541,7 +3541,7 @@
     "russian": "пробовать",
     "emoji": "🔄",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w443.svg"
   },
   {
     "id": 444,
@@ -3549,7 +3549,7 @@
     "russian": "достигать / преуспевать",
     "emoji": "🏆",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w444.svg"
   },
   {
     "id": 445,
@@ -3557,7 +3557,7 @@
     "russian": "помогать",
     "emoji": "🤝",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w445.svg"
   },
   {
     "id": 446,
@@ -3565,7 +3565,7 @@
     "russian": "защищать",
     "emoji": "🛡️",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w446.svg"
   },
   {
     "id": 447,
@@ -3573,7 +3573,7 @@
     "russian": "ссориться",
     "emoji": "😤",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w447.svg"
   },
   {
     "id": 448,
@@ -3581,7 +3581,7 @@
     "russian": "мириться",
     "emoji": "🤝",
     "category": "Глаголы",
-    "image": "./images/cat-verb.svg"
+    "image": "./images/w448.svg"
   },
   {
     "id": 449,
@@ -3589,7 +3589,7 @@
     "russian": "погода / воздух",
     "emoji": "🌤️",
     "category": "Погода",
-    "image": "./images/cat-weather.svg"
+    "image": "./images/w449.svg"
   },
   {
     "id": 450,
@@ -3597,7 +3597,7 @@
     "russian": "солнце",
     "emoji": "☀️",
     "category": "Погода",
-    "image": "./images/cat-weather.svg"
+    "image": "./images/w450.svg"
   },
   {
     "id": 451,
@@ -3605,7 +3605,7 @@
     "russian": "дождь",
     "emoji": "🌧️",
     "category": "Погода",
-    "image": "./images/cat-weather.svg"
+    "image": "./images/w451.svg"
   },
   {
     "id": 452,
@@ -3645,7 +3645,7 @@
     "russian": "туман",
     "emoji": "🌫️",
     "category": "Погода",
-    "image": "./images/cat-weather.svg"
+    "image": "./images/w456.svg"
   },
   {
     "id": 457,
@@ -3653,7 +3653,7 @@
     "russian": "радуга",
     "emoji": "🌈",
     "category": "Погода",
-    "image": "./images/cat-weather.svg"
+    "image": "./images/w457.svg"
   },
   {
     "id": 458,
@@ -3661,7 +3661,7 @@
     "russian": "море",
     "emoji": "🌊",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w458.svg"
   },
   {
     "id": 459,
@@ -3669,7 +3669,7 @@
     "russian": "озеро",
     "emoji": "🏞️",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w459.svg"
   },
   {
     "id": 460,
@@ -3677,7 +3677,7 @@
     "russian": "река",
     "emoji": "🏞️",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w460.svg"
   },
   {
     "id": 461,
@@ -3685,7 +3685,7 @@
     "russian": "гора",
     "emoji": "⛰️",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w461.svg"
   },
   {
     "id": 462,
@@ -3693,7 +3693,7 @@
     "russian": "лес",
     "emoji": "🌲",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w462.svg"
   },
   {
     "id": 463,
@@ -3701,7 +3701,7 @@
     "russian": "дерево",
     "emoji": "🌳",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w463.svg"
   },
   {
     "id": 464,
@@ -3709,7 +3709,7 @@
     "russian": "цветок",
     "emoji": "🌸",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w464.svg"
   },
   {
     "id": 465,
@@ -3717,7 +3717,7 @@
     "russian": "животное",
     "emoji": "🐾",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w465.svg"
   },
   {
     "id": 466,
@@ -3733,7 +3733,7 @@
     "russian": "кошка",
     "emoji": "🐈",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w467.svg"
   },
   {
     "id": 468,
@@ -3741,7 +3741,7 @@
     "russian": "птица",
     "emoji": "🐦",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w468.svg"
   },
   {
     "id": 469,
@@ -3749,7 +3749,7 @@
     "russian": "лошадь",
     "emoji": "🐴",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w469.svg"
   },
   {
     "id": 470,
@@ -3757,7 +3757,7 @@
     "russian": "корова",
     "emoji": "🐄",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w470.svg"
   },
   {
     "id": 471,
@@ -3765,7 +3765,7 @@
     "russian": "овца",
     "emoji": "🐑",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w471.svg"
   },
   {
     "id": 472,
@@ -3773,7 +3773,7 @@
     "russian": "пляж",
     "emoji": "🏖️",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w472.svg"
   },
   {
     "id": 473,
@@ -3781,7 +3781,7 @@
     "russian": "песок",
     "emoji": "🏖️",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w473.svg"
   },
   {
     "id": 474,
@@ -3789,7 +3789,7 @@
     "russian": "камень",
     "emoji": "🪨",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w474.svg"
   },
   {
     "id": 475,
@@ -3797,7 +3797,7 @@
     "russian": "земля / почва",
     "emoji": "🌍",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w475.svg"
   },
   {
     "id": 476,
@@ -3805,7 +3805,7 @@
     "russian": "небо",
     "emoji": "🌌",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w476.svg"
   },
   {
     "id": 477,
@@ -3813,7 +3813,7 @@
     "russian": "звезда",
     "emoji": "⭐",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w477.svg"
   },
   {
     "id": 478,
@@ -3821,7 +3821,7 @@
     "russian": "мир / земля",
     "emoji": "🌍",
     "category": "Природа",
-    "image": "./images/cat-nature.svg"
+    "image": "./images/w478.svg"
   },
   {
     "id": 479,
@@ -3829,7 +3829,7 @@
     "russian": "путешествие",
     "emoji": "✈️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w479.svg"
   },
   {
     "id": 480,
@@ -3837,7 +3837,7 @@
     "russian": "отпуск",
     "emoji": "🏖️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w480.svg"
   },
   {
     "id": 481,
@@ -3853,7 +3853,7 @@
     "russian": "гид",
     "emoji": "🗺️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w482.svg"
   },
   {
     "id": 483,
@@ -3861,7 +3861,7 @@
     "russian": "тур",
     "emoji": "🚌",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w483.svg"
   },
   {
     "id": 484,
@@ -3869,7 +3869,7 @@
     "russian": "бронирование",
     "emoji": "📋",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w484.svg"
   },
   {
     "id": 485,
@@ -3877,7 +3877,7 @@
     "russian": "номер комнаты",
     "emoji": "🔑",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w485.svg"
   },
   {
     "id": 486,
@@ -3885,7 +3885,7 @@
     "russian": "ключ",
     "emoji": "🔑",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w486.svg"
   },
   {
     "id": 487,
@@ -3893,7 +3893,7 @@
     "russian": "вход",
     "emoji": "🚪",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w487.svg"
   },
   {
     "id": 488,
@@ -3901,7 +3901,7 @@
     "russian": "выход",
     "emoji": "🚪",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w488.svg"
   },
   {
     "id": 489,
@@ -3909,7 +3909,7 @@
     "russian": "таможня",
     "emoji": "🛃",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w489.svg"
   },
   {
     "id": 490,
@@ -3917,7 +3917,7 @@
     "russian": "граница",
     "emoji": "🛂",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w490.svg"
   },
   {
     "id": 491,
@@ -3925,7 +3925,7 @@
     "russian": "чемодан",
     "emoji": "🧳",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w491.svg"
   },
   {
     "id": 492,
@@ -3933,7 +3933,7 @@
     "russian": "фотография",
     "emoji": "📸",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w492.svg"
   },
   {
     "id": 493,
@@ -3941,7 +3941,7 @@
     "russian": "сувенир / память",
     "emoji": "🎁",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w493.svg"
   },
   {
     "id": 494,
@@ -3949,7 +3949,7 @@
     "russian": "музей",
     "emoji": "🏛️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w494.svg"
   },
   {
     "id": 495,
@@ -3957,7 +3957,7 @@
     "russian": "крепость / замок",
     "emoji": "🏰",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w495.svg"
   },
   {
     "id": 496,
@@ -3965,7 +3965,7 @@
     "russian": "купание",
     "emoji": "🏊",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w496.svg"
   },
   {
     "id": 497,
@@ -3973,7 +3973,7 @@
     "russian": "загорать",
     "emoji": "☀️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w497.svg"
   },
   {
     "id": 498,
@@ -3981,7 +3981,7 @@
     "russian": "заблудиться",
     "emoji": "🗺️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w498.svg"
   },
   {
     "id": 499,
@@ -3989,7 +3989,7 @@
     "russian": "Стамбул",
     "emoji": "🕌",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w499.svg"
   },
   {
     "id": 500,
@@ -3997,6 +3997,6 @@
     "russian": "Анкара",
     "emoji": "🏛️",
     "category": "Путешествия",
-    "image": "./images/cat-travel.svg"
+    "image": "./images/w500.svg"
   }
 ]
